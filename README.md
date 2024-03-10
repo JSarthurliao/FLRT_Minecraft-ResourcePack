@@ -27,7 +27,7 @@ A branch wich will be always active updating to the newest, as know as an **alph
 
 <details>
   <summary>MTR:</summary>
-  missing `properties.json` for o_train model
+  missing "properties.json" for o_train model
   <details>
     <summary>ℹ️information:</summary>
     Need more example for o_train
