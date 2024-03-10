@@ -14,7 +14,7 @@
             "id": "signuptable_stopservices",
             "showWeather": false,
             "showClock": false,
-            "hideRow": [false, false, false, false],
+            "hideRow": [true, true, true, false],
             "customTextPushArrival": false,
             "background": "jsblock:request_forest/pids_present/signuptable_stopservices.png",
             "fonts": "mtr:mtr",
