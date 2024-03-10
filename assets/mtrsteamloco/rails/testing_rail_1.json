@@ -1,0 +1,8 @@
+{
+    "testing_rail_1": {
+        "name": "testing_rail_1",
+        "model": "mtrsteamloco:rails/testing_rail_1.obj",
+        "repeatInterval": 0.5,
+        "flipV": true
+    }
+}

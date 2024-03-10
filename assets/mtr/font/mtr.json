@@ -1,0 +1,16 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "mtr:msgothic.ttf",
+            "size": 12.0,
+            "oversample": 16.0
+        },
+        {
+            "type": "ttf",
+            "file": "mtr:microsoft-jhenghei.ttf",
+            "size": 12.0,
+            "oversample": 16.0
+        }
+    ]
+}

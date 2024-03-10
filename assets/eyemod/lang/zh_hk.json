@@ -1,0 +1,282 @@
+{
+//Translation file of the EyeMod
+	//Items
+	"item.eyemod.eyephone": "EyePhone",
+	"item.eyemod.eyecore": "CPU",
+	"item.eyemod.cover": "電話殼",
+	"item.eyemod.display": "MON",
+	"item.eyemod.battery": "電池",
+	"item.eyemod.drive": "硬碟",
+	"item.eyemod.wire": "電線",
+	"block.eyemod.router": "路由器",
+	"block.eyemod.charger": "充電器",
+
+	//Apps
+	"app.eemod.settings":{
+		"app.eyemod.settings.name": "設定",
+		"app.eyemod.settings.desc": "管理你部電話嘅設定"},
+	"app.eyemod.store":{
+		"app.eyemod.store.name": "AppStore",
+		"app.eyemod.store.desc": "Down Apps"},
+	"app.eyemod.mail":{
+		"app.eyemod.mail.name": "郵件",
+		"app.eyemod.mail.desc": "睇吓咩人Send咗啲咩嘢俾你"},
+	"app.eyemod.network":{
+		"app.eyemod.network.name": "局域網空間",
+		"app.eyemod.network.desc": "用你嘅路由器雲端整一個私人Facebook，同玩家共享訊息"},
+	"app.eyemod.contacts":{
+		"app.eyemod.contacts.name": "通訊錄",
+		"app.eyemod.contacts.desc": "管理你的聯繫人"},
+	"app.eyemod.message":{
+		"app.eyemod.messages.name": "訊息",
+		"app.eyemod.messages.desc": "Send Message俾你嘅朋友"},
+	"app.eyemod.chat":{
+		"app.eyemod.chat.name": "聊天",
+		"app.eyemod.chat.desc": "同在線嘅玩家傾偈"},
+	"app.eyemod.maps":{
+		"app.eyemod.maps.name": "地圖",
+		"app.eyemod.maps.desc": "睇吓世界有幾大"},
+	"app.eyemod.waypoint":{
+		"app.eyemod.waypoint.name": "標點",
+		"app.eyemod.waypoint.desc": "儲存你去過嘅地方嘅座標"},
+	"app.eyemod.clock":{
+		"app.eyemod.clock.name": "時鐘",
+		"app.eyemod.clock.desc": "俾你知道而家嘅時間"},
+	"app.eyemod.note":{
+		"app.eyemod.notes.name": "備忘錄",
+		"app.eyemod.notes.desc": "記低筆記"},
+	"app.eyemod.camera":{
+		"app.eyemod.camera.name": "相機",
+		"app.eyemod.camera.desc": "影低一啲靚相"},
+	"app.eyemod.console":{
+		"app.eyemod.console.name": "終端機",
+		"app.eyemod.console.desc": "執行唔同嘅命令"},
+	"app.eyemod.photos":{
+		"app.eyemod.photos.name": "相片",
+		"app.eyemod.photos.desc": "睇返你影低嘅靚相"},
+	"app.eyemod.music":{
+		"app.eyemod.music.name": "音樂",
+		"app.eyemod.music.desc": "聽MINECRAFT嘅音樂"},
+	"app.eyemod.tnt":{
+		"app.eyemod.tnt.name": "TNT",
+		"app.eyemod.tnt.desc": "整一啲爆炸叫聲，整蠱你朋友"},
+	"app.eyemod.magic":{
+		"app.eyemod.magic.name": "魔法師",
+		"app.eyemod.magic.desc": "將一啲效果送俾人"},
+	"app.eyemod.spawner":{
+		"app.eyemod.spawner.name": "萬能生怪器",
+		"app.eyemod.spawner.desc": "生成一啲生物"},
+	"app.eyemod":{
+		"app.eyemod.teleport.name": "瞬移機",
+		"app.eyemod.teleport.desc": "想去邊就去邊"},
+	"app.eyemod.world":{
+		"app.eyemod.world.name": "世界控制台",
+		"app.eyemod.world.desc": "撳個掣就可以控制世界"},
+	"app.eyemod.xray":{
+		"app.eyemod.xray.name": "搵寶物",
+		"app.eyemod.xray.desc": "搵一啲有價值嘅方塊"},
+	"app.eyemod.warp":{
+		"app.eyemod.warp.name": "標點傳送",
+		"app.eyemod.warp.desc": "傳送去你標點嘅地方度"},
+	"app.eyemod.weather":{
+		"app.eyemod.weather.name": "天氣",
+		"app.eyemod.weather.desc": "查看當地的天氣"},
+	"app.eyemod.spwan":{
+		"app.eyemod.spawn.name": "番生點",
+		"app.eyemod.spawn.desc": "番番去出身點"},
+	"app.eyemod.players":{
+		"app.eyemod.players.name": "玩家",
+		"app.eyemod.players.desc": "管理世界上的玩家"},
+
+	//General Text
+	"text.eyemod.test": "測試",
+	"text.eyemod.add": "添加",
+	"text.eyemod.buy": "購買",
+	"text.eyemod.remove": "刪除",
+	"text.eyemod.open": "開啟",
+	"text.eyemod.close": "關閉",
+	"text.eyemod.player": "玩家",
+	"text.eyemod.name": "名稱",
+	"text.eyemod.start": "開始",
+	"text.eyemod.warp": "Warp",
+	"text.eyemod.position":"位置",
+	"text.eyemod.player": "玩家",
+	"text.eyemod.set": "確定",
+	"text.eyemod.change": "更改",
+	"text.eyemod.cancel": "取消",
+	"text.eyemod.post": "發布",
+	"text.eyemod.react": "回覆",
+	"text.eyemod.reaction": "回覆",
+	"text.eyemod.title": "標題",
+	"text.eyemod.message": "訊息",
+	"text.eyemod.note": "筆記",
+	"text.eyemod.read": "查看",
+	"text.eyemod.edit": "編輯",
+	"text.eyemod.list": "列表",
+	"text.eyemod.entity": "生物",
+	"text.eyemod.spawn": "生成",
+	"text.eyemod.positive": "好嘅",
+	"text.eyemod.neutral": "普通嘅",
+	"text.eyemod.negative": "壞嘅",
+	"text.eyemod.effect": "效果",
+	"text.eyemod.apply": "送俾佢",
+	"text.eyemod.clear": "清除",
+	"text.eyemod.infinite": "冇限時",
+	"text.eyemod.time": "時間",
+	"text.eyemod.minutes": "分鐘",
+	"text.eyemod.seconds": "秒",
+	"text.eyemod.biome": "生物群落",
+	"text.eyemod.kick": "踢咗佢",
+	"text.eyemod.reason": "原因",
+	
+	//Notifications & Other
+	"text.eyemod.notify_connection": "請連接Wi-Fi",
+	"text.eyemod.notify_location": "請在設置中開啟定位服務",
+	"text.eyemod.notify_storage": "儲存空間已用盡",
+	"text.eyemod.notify_routerstorage": "路由器的雲端容量不足",
+	"text.eyemod.battery_empty": "電池沒電了",
+	"text.eyemod.block_router_connect": "連接成功",
+	"text.eyemod.block_router_off": "此路由器沒有網絡",
+
+	//Hovering
+	"text.eyemod.hover_currentpos": "當前位置",
+	"text.eyemod.hover_waypoints": "選擇航點",
+	"text.eyemod.hover_mappos": "從地圖中選擇",
+	"text.eyemod.hover_lookingat": "看著的方塊",
+	"text.eyemod.hover_dimension": "更改維度",
+	"text.eyemod.hover_contacts": "從聯繫人中選擇",
+	"text.eyemod.hover_online": "從在線玩家中選擇",
+	"text.eyemod.hover_suggestion": "使用enter選擇建議",
+	"text.eyemod.hover_trans": "更改地圖的透明度",
+	"text.eyemod.hover_deletehome": "刪除出生點",
+	
+	//Store
+	"text.eyemod.store_price": "${v}",
+	"text.eyemod.store_apps": "Apps",
+	"text.eyemod.store_bought": "購買成功, 請在主畫面中查看",
+	"text.eyemod.store_money": "餘額不足",
+	"text.eyemod.store_out": "您似乎已經購買了所有可用的Apps",
+
+	//Settings
+	"text.eyemod.settings_device": "Device Settings",
+	"text.eyemod.settings_apps": "App Settings",
+	"text.eyemod.settings_general": "General",
+	"text.eyemod.settings_appman": "App Management",
+	"text.eyemod.settings_cleardevice": "Reset Device",
+	"text.eyemod.settings_clearconfirm": "Are you sure you want to reset all data? (excluding apps and money)",
+	"text.eyemod.settings_clearapp": "Clear Data",
+	"text.eyemod.settings_deinstall": "Delete",
+	"text.eyemod.settings_battery": "Battery: {v}",
+	"text.eyemod.settings_storage": "Storage: {v}",
+	"text.eyemod.settings_clear": "Clear Data",
+	"text.eyemod.settings_account": "Account",
+	"text.eyemod.settings_money": "Transfer money (${v}):",
+
+	"text.eyemod.settings_customization": "Customization",
+	"text.eyemod.settings_border": "Device:",
+	"text.eyemod.settings_background": "Background:",
+	"text.eyemod.settings_custom": "Custom Background",
+	"text.eyemod.settings_privacy": "Privacy",
+	"text.eyemod.settings_face": "Face ID",
+	"text.eyemod.settings_location": "Location Access",
+	"text.eyemod.settings_notifications": "Allow notifications",
+	"text.eyemod.settings_eyenet": "EyeNet",
+	"text.eyemod.settings_disconnect": "Disconnect",
+	"text.eyemod.settings_enterpassword": "Enter password:",
+	"text.eyemod.settings_password": "Password",
+	"text.eyemod.settings_managenet": "Router management",
+	
+	//Net
+		"text.eyemod.net_status": "Connection status:",
+		"text.eyemod.net_enter": "Enter password to connect",
+		"text.eyemod.net_public": "Connect to router",
+		"text.eyemod.net_connect": "Connect",
+		"text.eyemod.net_connection": "Connection: {v}",
+		"text.eyemod.net_router": "Router: {v}",
+		"text.eyemod.net_owner": "Owner: {v}",
+		"text.eyemod.net_password": "Password: {v}",
+		"text.eyemod.net_storage": "Storage: {v}",
+		"text.eyemod.net_change": "Change password:",
+
+		"text.eyemod.net_clear": "Clear router storage",
+		"text.eyemod.net_changepassword": "Change password:",
+	
+	//Mail
+	"text.eyemod.mail_filter": "過濾垃圾郵件",
+		
+	//Notes
+	"text.eyemod.notes_new": "+",
+	
+	//Chat
+	"text.eyemod.chat_local": "區域聊天",
+	"text.eyemod.chat_distance": "可接收範圍: {v}",
+	"text.eyemod.chat_message": "訊息",
+	
+	//Maps
+	"text.eyemod.map_size": "地圖預設大小: {v}",
+	
+	//Clock
+	"text.eyemod.clock_timer": "倒計時",
+	"text.eyemod.clock_stopwatch": "秒錶",
+	
+	//Camera
+	"text.eyemod.camera_resolution": "HDR",
+	
+	//Notes
+	"text.eyemod.notes_note": "筆記",
+	
+	//Console
+	"text.eyemod.console_command": "命令",
+	
+	//Photos
+	"text.eyemod.photos_rename": "重新命名到:",
+	"text.eyemod.photos_delete": "是否刪除此相片",
+	
+	
+	//Network
+	"text.eyemod.network_create": "創建新帖子",
+	"text.eyemod.network_reaction": "回覆佢:",
+	"text.eyemod.network_delete": "是否刪除此帖子？",
+	
+	//TNT
+	"text.eyemod.tnt_explode": "爆!!!",
+	"text.eyemod.tnt_fire": "爆炸",
+	"text.eyemod.tnt_damage": "§4危險模式",
+	"text.eyemod.tnt_timer": "倒計時:",
+	"text.eyemod.tnt_size": "爆炸範圍: {v}",
+	
+	//Teleport
+	"text.eyemod.teleport_tp": "傳送",
+	"text.eyemod.teleport_to": "傳送到:",
+	"text.eyemod.teleport_target": "目標玩家:",
+	
+	//Spawner
+	"text.eyemod.spawner_tospawn": "要生成的生物:",
+	"text.eyemod.spawner_amount": "數量: {v}",
+	"text.eyemod.spawner_info": "生物標籤:",
+	
+	//XRay
+	"text.eyemod.xray_legend": "方塊標記顏色",
+	
+	//Spawner
+	"text.eyemod.magic_effect": "想要的效果:",
+	"text.eyemod.magic_level": "Lv. {v}",
+	
+	//World
+	"text.eyemod.world_time": "Set time to: {v}",
+	
+	//Weather
+	"text.eyemod.weather_sunny": "晴天",
+	"text.eyemod.weather_raining": "落雨",
+	"text.eyemod.weather_snowing": "落雪",
+	"text.eyemod.weather_thunder": "行雷",
+	"text.eyemod.weather_degrees": "{v}°C",
+	"text.eyemod.weather_humidity": "濕度: {v}",
+	"text.eyemod.weather_rain": "會落雨嘅機會: {v}",
+	
+	//Spawn
+	"text.eyemod.spawn_home": "設置為出生點",
+	
+	"text.eyemod.end": "終界"
+	
+}

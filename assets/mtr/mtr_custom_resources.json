@@ -1,0 +1,141 @@
+{
+    "custom_trains": {
+        "o1": {
+            "name": "[Old]Ocean Cruiser",
+            "description": "Macau Old LRT Taipa Train",
+            "wikipedia_article": "", "color": "023062",
+            "gangway_connection_id": "", "train_barrier_id": "",
+            "door_animation_type": "STANDARD",
+            "render_door_overlay": false,
+            "rider_offset": 0.0,
+            "texture_id": "mtr:o1/o_train.png",
+            "model": "mtr:o1/o_train.bbmodel",
+            "model_properties": "mtr:o1/o_train.json"},
+        "o2_train": {
+            "name": "[New]Ocean Cruiser",
+            "description": "Macau New LRT Taipa Train",
+            "wikipedia_article": "", "color": "023062",
+            "gangway_connection_id": "",
+            "train_barrier_id": "", "door_animation_type": "STANDARD",
+            "render_door_overlay": false,
+            "rider_offset": 0.0,
+            "texture_id": "minecraft:textures/misc/white.png",
+            "model": "mtr:O2_train/am.obj",
+            "model_properties": "mtr:O2_train/o2_properties.json",
+            "flipV": true}},
+    "custom_signs": {
+        "customer_service_centre": {
+            "texture_id": "mtr:request_forest/sign/customer_service_centre.png",
+            "flip_texture": false,
+            "custom_text": "客戶服務|Customer Service Centre",
+            "flip_custom_text": false,
+            "small": true},
+        "ocean_cruiser": {
+            "texture_id": "mtr:request_forest/sign/ocean_cruiser.png",
+            "flip_texture": false,
+            "small": true},
+        "flrt_arrow_left": {
+            "texture_id": "mtr:request_forest/sign/arrow/flrt/arrow.png",
+            "flip_texture": false,
+            "small": true},
+        "flrt_arrow_right": {
+            "texture_id": "mtr:request_forest/sign/arrow/flrt/arrow.png",
+            "flip_texture": true,
+            "small": true},
+        "flrt_arrow_up": {
+            "texture_id": "mtr:request_forest/sign/arrow/flrt/arrow_up.png",
+            "flip_texture": false,
+            "small": true},
+        "flrt_arrow_down": {
+            "texture_id": "mtr:request_forest/sign/arrow/flrt/arrow_down.png",
+            "flip_texture": false,
+            "small": true},
+        "flrt_arrow_up_left": {
+            "texture_id": "mtr:request_forest/sign/arrow/flrt/arrow_up_left.png",
+            "flip_texture": false,
+            "small": true},
+        "flrt_arrow_up_right": {
+            "texture_id": "mtr:request_forest/sign/arrow/flrt/arrow_up_left.png",
+            "flip_texture": true,
+            "small": true},
+        "flrt_arrow_down_left": {
+            "texture_id": "mtr:request_forest/sign/arrow/flrt/arrow_down_left.png",
+            "flip_texture": false,
+            "small": true},
+        "flrt_arrow_down_right": {
+            "texture_id": "mtr:request_forest/sign/arrow/flrt/arrow_down_left.png",
+            "flip_texture": true,
+            "small": true},
+        "flrt_arrow_turn_back_left": {
+            "texture_id": "mtr:request_forest/sign/arrow/flrt/arrow_turn_back.png",
+            "flip_texture": false,
+            "small": true},
+        "flrt_arrow_turn_back_right": {
+            "texture_id": "mtr:request_forest/sign/arrow/flrt/arrow_turn_back.png",
+            "flip_texture": true,
+            "small": true},
+        "black_arrow_left": {
+            "texture_id": "mtr:request_forest/sign/arrow/black/arrow.png",
+            "flip_texture": false,
+            "small": true},
+        "black_arrow_right": {
+            "texture_id": "mtr:request_forest/sign/arrow/black/arrow.png",
+            "flip_texture": true,
+            "small": true},
+        "black_arrow_up": {
+            "texture_id": "mtr:request_forest/sign/arrow/black/arrow_up.png",
+            "flip_texture": false,
+            "small": true},
+        "black_arrow_down": {
+            "texture_id": "mtr:request_forest/sign/arrow/black/arrow_down.png",
+            "flip_texture": false,
+            "small": true},
+        "black_arrow_up_left": {
+            "texture_id": "mtr:request_forest/sign/arrow/black/arrow_up_left.png",
+            "flip_texture": false,
+            "small": true},
+        "black_arrow_up_right": {
+            "texture_id": "mtr:request_forest/sign/arrow/black/arrow_up_left.png",
+            "flip_texture": true,
+            "small": true},
+        "black_arrow_down_left": {
+            "texture_id": "mtr:request_forest/sign/arrow/black/arrow_down_left.png",
+            "flip_texture": false,
+            "small": true},
+        "black_arrow_down_right": {
+            "texture_id": "mtr:request_forest/sign/arrow/black/arrow_down_left.png",
+            "flip_texture": true,
+            "small": true},
+        "black_arrow_turn_back_left": {
+            "texture_id": "mtr:request_forest/sign/arrow/black/arrow_turn_back.png",
+            "flip_texture": false,
+            "small": true},
+        "black_arrow_turn_back_right": {
+            "texture_id": "mtr:request_forest/sign/arrow/black/arrow_turn_back.png",
+            "flip_texture": true,
+            "small": true},
+        "rs_logo": {
+            "texture_id": "mtr:request_forest/sign/rs/rs_logo.png",
+            "flip_texture": false,
+            "small": true},
+        "rs_logo_board": {
+            "texture_id": "mtr:request_forest/sign/rs/rs_logo.png",
+            "flip_texture": false,
+            "custom_text": "RS 工作坊|Red Soft crafter/studio",
+            "flip_custom_text": false,
+            "small": true},
+        "rs_logo_b": {
+            "texture_id": "mtr:request_forest/sign/rs/rs_logo_b.png",
+            "flip_texture": false,
+            "small": true},
+        "flrt_logo": {
+            "texture_id": "mtr:request_forest/sign/flrt/flrt_logo.png",
+            "flip_texture": false,
+            "small": true},
+        "flrt_board": {
+            "texture_id": "mtr:request_forest/sign/flrt/flrt_logo.png",
+            "flip_texture": false,
+            "custom_text": "幻想輕軌|Fantastic Light Rapid Transit",
+            "flip_custom_text": false,
+            "small": true}}
+}
