@@ -1,4 +1,4 @@
-# <img src="temporary/emojis/FLRT.png" width="25" height="25" alt="platformio"/>FLRT-ResourcePack
+# <img src="temporary/emojis/FLRT.png" width="25" height="25"/>FLRT-ResourcePack
 **About:** 
 "master" branch of FLRT-ResourcePack
 A branch wich will be always active updating to the newest, as know as an **alpha** version!
