@@ -3,7 +3,7 @@
 "master" branch of FLRT-ResourcePack
 A branch wich will be always active updating to the newest, as know as an **alpha** version!
 
-> ![WARNING]
+> [!WARNING]
 > You shall not shared any files or send these resourcepack files to public without authorized by owner of "FLRT ResourcePack" @HiltonLai
 ---
 **🆕News and complete ☑️checks**
