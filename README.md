@@ -1,1 +1,1 @@
-# FLRT-ResourcePaxk
+# FLRT-ResourcePack
