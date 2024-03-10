@@ -6,7 +6,7 @@ A branch wich will be always active updating to the newest, as know as an **alph
 > [!WARNING]
 > You shall not shared any files or send these resourcepack files to public without authorized by owner of "FLRT ResourcePack" [@HiltonLai](https://github.com/HiltonLai)
 ---
-**🆕News and complete ☑️checks**
+### 🆕News and complete ☑️checks
 - [x] "o_train.bbmodel" formatting imporved
 - [ ] "o2" models import
 - [x] import mtr font 
@@ -15,7 +15,7 @@ A branch wich will be always active updating to the newest, as know as an **alph
 - [x] custom sounds mlm series
 - [x] lang files improvement
 
-**Knowned issues**
+### Knowned issues
 <details>
   <summary>Minecraft:</summary>
   new emojis cannot be load.
