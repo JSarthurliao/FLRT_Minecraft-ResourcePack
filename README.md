@@ -1,17 +1,35 @@
 # FLRT-ResourcePack
-## master branch of FLRT-ResourcePack
+**About:** 
+"master" branch of FLRT-ResourcePack
+A branch wich will be always active updating to the newest, as know as an **alpha** version!
 
-### News and complete checks
+> ![WARNING]
+> You shall not shared any files or send these resourcepack files to public without authorized by owner of "FLRT ResourcePack" @HiltonLai
+---
+**🆕News and complete ☑️checks**
 - [x] "o_train.bbmodel" formatting imporved
 - [ ] "o2" models import
 - [x] import mtr font 
 - [x] custom mtr signs
+- [ ] custom pids
 - [x] custom sounds mlm series
 - [x] lang files improvement
 
+**Knowned issues**
 <details>
-  <summary>Temporary block</summary>
-  
-  Temporary block for future using!!
+  <summary>Minecraft:</summary>
+  new emojis cannot be load.
+  <details>
+    <summary>ℹ️information:</summary>
+    Need more information for the minecraft emojis json file name
+    </details>
+</details>
 
+<details>
+  <summary>MTR:</summary>
+  missing `properties.json` for o_train model
+  <details>
+    <summary>ℹ️information:</summary>
+    Need more example for o_train
+  </details>
 </details>
