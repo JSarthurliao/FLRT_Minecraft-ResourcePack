@@ -1,6 +1,4 @@
 {
-//Translation file of the EyeMod
-	//Items
 	"item.eyemod.eyephone": "EyePhone",
 	"item.eyemod.eyecore": "CPU",
 	"item.eyemod.cover": "電話殼",
@@ -11,7 +9,6 @@
 	"block.eyemod.router": "路由器",
 	"block.eyemod.charger": "充電器",
 
-	//Apps
 	"app.eemod.settings":{
 		"app.eyemod.settings.name": "設定",
 		"app.eyemod.settings.desc": "管理你部電話嘅設定"},
@@ -88,7 +85,6 @@
 		"app.eyemod.players.name": "玩家",
 		"app.eyemod.players.desc": "管理世界上的玩家"},
 
-	//General Text
 	"text.eyemod.test": "測試",
 	"text.eyemod.add": "添加",
 	"text.eyemod.buy": "購買",
@@ -129,7 +125,6 @@
 	"text.eyemod.kick": "踢咗佢",
 	"text.eyemod.reason": "原因",
 	
-	//Notifications & Other
 	"text.eyemod.notify_connection": "請連接Wi-Fi",
 	"text.eyemod.notify_location": "請在設置中開啟定位服務",
 	"text.eyemod.notify_storage": "儲存空間已用盡",
@@ -138,7 +133,6 @@
 	"text.eyemod.block_router_connect": "連接成功",
 	"text.eyemod.block_router_off": "此路由器沒有網絡",
 
-	//Hovering
 	"text.eyemod.hover_currentpos": "當前位置",
 	"text.eyemod.hover_waypoints": "選擇航點",
 	"text.eyemod.hover_mappos": "從地圖中選擇",
@@ -150,14 +144,12 @@
 	"text.eyemod.hover_trans": "更改地圖的透明度",
 	"text.eyemod.hover_deletehome": "刪除出生點",
 	
-	//Store
 	"text.eyemod.store_price": "${v}",
 	"text.eyemod.store_apps": "Apps",
 	"text.eyemod.store_bought": "購買成功, 請在主畫面中查看",
 	"text.eyemod.store_money": "餘額不足",
 	"text.eyemod.store_out": "您似乎已經購買了所有可用的Apps",
 
-	//Settings
 	"text.eyemod.settings_device": "Device Settings",
 	"text.eyemod.settings_apps": "App Settings",
 	"text.eyemod.settings_general": "General",
@@ -186,7 +178,6 @@
 	"text.eyemod.settings_password": "Password",
 	"text.eyemod.settings_managenet": "Router management",
 	
-	//Net
 		"text.eyemod.net_status": "Connection status:",
 		"text.eyemod.net_enter": "Enter password to connect",
 		"text.eyemod.net_public": "Connect to router",
@@ -201,71 +192,54 @@
 		"text.eyemod.net_clear": "Clear router storage",
 		"text.eyemod.net_changepassword": "Change password:",
 	
-	//Mail
 	"text.eyemod.mail_filter": "過濾垃圾郵件",
 		
-	//Notes
 	"text.eyemod.notes_new": "+",
 	
-	//Chat
 	"text.eyemod.chat_local": "區域聊天",
 	"text.eyemod.chat_distance": "可接收範圍: {v}",
 	"text.eyemod.chat_message": "訊息",
 	
-	//Maps
 	"text.eyemod.map_size": "地圖預設大小: {v}",
 	
-	//Clock
 	"text.eyemod.clock_timer": "倒計時",
 	"text.eyemod.clock_stopwatch": "秒錶",
 	
-	//Camera
 	"text.eyemod.camera_resolution": "HDR",
 	
-	//Notes
 	"text.eyemod.notes_note": "筆記",
 	
-	//Console
 	"text.eyemod.console_command": "命令",
 	
-	//Photos
 	"text.eyemod.photos_rename": "重新命名到:",
 	"text.eyemod.photos_delete": "是否刪除此相片",
 	
 	
-	//Network
 	"text.eyemod.network_create": "創建新帖子",
 	"text.eyemod.network_reaction": "回覆佢:",
 	"text.eyemod.network_delete": "是否刪除此帖子？",
 	
-	//TNT
 	"text.eyemod.tnt_explode": "爆!!!",
 	"text.eyemod.tnt_fire": "爆炸",
 	"text.eyemod.tnt_damage": "§4危險模式",
 	"text.eyemod.tnt_timer": "倒計時:",
 	"text.eyemod.tnt_size": "爆炸範圍: {v}",
 	
-	//Teleport
 	"text.eyemod.teleport_tp": "傳送",
 	"text.eyemod.teleport_to": "傳送到:",
 	"text.eyemod.teleport_target": "目標玩家:",
 	
-	//Spawner
 	"text.eyemod.spawner_tospawn": "要生成的生物:",
 	"text.eyemod.spawner_amount": "數量: {v}",
 	"text.eyemod.spawner_info": "生物標籤:",
 	
-	//XRay
 	"text.eyemod.xray_legend": "方塊標記顏色",
 	
-	//Spawner
 	"text.eyemod.magic_effect": "想要的效果:",
 	"text.eyemod.magic_level": "Lv. {v}",
 	
-	//World
 	"text.eyemod.world_time": "Set time to: {v}",
 	
-	//Weather
 	"text.eyemod.weather_sunny": "晴天",
 	"text.eyemod.weather_raining": "落雨",
 	"text.eyemod.weather_snowing": "落雪",
@@ -274,7 +248,6 @@
 	"text.eyemod.weather_humidity": "濕度: {v}",
 	"text.eyemod.weather_rain": "會落雨嘅機會: {v}",
 	
-	//Spawn
 	"text.eyemod.spawn_home": "設置為出生點",
 	
 	"text.eyemod.end": "終界"

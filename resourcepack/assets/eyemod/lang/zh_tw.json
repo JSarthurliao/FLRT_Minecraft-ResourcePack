@@ -1,6 +1,4 @@
 {
-//Translation file of the EyeMod
-	//Items
 	"item.eyemod.eyephone": "EyePhone",
 	"item.eyemod.eyecore": "EyeCPU",
 	"item.eyemod.cover": "手機殼",
@@ -11,7 +9,6 @@
 	"block.eyemod.router": "路由器",
 	"block.eyemod.charger": "充電器",
 	
-	//Apps
 	"app.eyemod.settings":{
 		"app.eyemod.settings.name": "設定",
 		"app.eyemod.settings.desc": "管理你EyePhone的設定"},
@@ -88,7 +85,6 @@
 		"app.eyemod.players.name": "玩家",
 		"app.eyemod.players.desc": "管理世界上的玩家"},
 
-	//General Text
 	"text.eyemod.test": "測試",
 	"text.eyemod.add": "添加",
 	"text.eyemod.buy": "購買",
@@ -129,7 +125,6 @@
 	"text.eyemod.kick": "踢出ta",
 	"text.eyemod.reason": "原因",
 	
-	//Notifications & Other
 	"text.eyemod.notify_connection": "請連接Wi-Fi",
 	"text.eyemod.notify_location": "請在設置中開啟定位服務",
 	"text.eyemod.notify_storage": "儲存空間已用盡",
@@ -138,7 +133,6 @@
 	"text.eyemod.block_router_connect": "連接成功",
 	"text.eyemod.block_router_off": "此路由器沒有網絡",
 
-	//Hovering
 	"text.eyemod.hover_currentpos": "當前位置",
 	"text.eyemod.hover_waypoints": "選擇航點",
 	"text.eyemod.hover_mappos": "從地圖中選擇",
@@ -150,14 +144,12 @@
 	"text.eyemod.hover_trans": "更改地圖的透明度",
 	"text.eyemod.hover_deletehome": "刪除出生點",
 	
-	//Store
 	"text.eyemod.store_price": "${v}",
 	"text.eyemod.store_apps": "Apps",
 	"text.eyemod.store_bought": "購買成功, 請在主畫面中查看",
 	"text.eyemod.store_money": "餘額不足",
 	"text.eyemod.store_out": "您似乎已經購買了所有可用的Apps",
 
-	//Settings
 	"text.eyemod.settings_device": "Device Settings",
 	"text.eyemod.settings_apps": "App Settings",
 	"text.eyemod.settings_general": "General",
@@ -186,7 +178,6 @@
 	"text.eyemod.settings_password": "Password",
 	"text.eyemod.settings_managenet": "Router management",
 	
-	//Net
 	"text.eyemod.net_status": "Connection status:",
 	"text.eyemod.net_enter": "Enter password to connect",
 	"text.eyemod.net_public": "Connect to router",
@@ -201,71 +192,54 @@
 	"text.eyemod.net_clear": "Clear router storage",
 	"text.eyemod.net_changepassword": "Change password:",
 	
-	//Mail
 	"text.eyemod.mail_filter": "Filter spam",
 		
-	//Notes
 	"text.eyemod.notes_new": "Create new note",
 	
-	//Chat
 	"text.eyemod.chat_local": "Local",
 	"text.eyemod.chat_distance": "Local range: {v}",
 	"text.eyemod.chat_message": "Message",
 	
-	//Maps
 	"text.eyemod.map_size": "Map size: {v}",
 	
-	//Clock
 	"text.eyemod.clock_timer": "Timer",
 	"text.eyemod.clock_stopwatch": "Stopwatch",
 	
-	//Camera
 	"text.eyemod.camera_resolution": "High resolution",
 	
-	//Notes
 	"text.eyemod.notes_note": "Note",
 	
-	//Console
 	"text.eyemod.console_command": "Command",
 	
-	//Photos
 	"text.eyemod.photos_rename": "Rename to:",
 	"text.eyemod.photos_delete": "Are you sure you want to delete this photo?",
 	
 	
-	//Network
 	"text.eyemod.network_create": "Create new post",
 	"text.eyemod.network_reaction": "Give a reaction:",
 	"text.eyemod.network_delete": "Are you sure you want to delete this post?",
 	
-	//TNT
 	"text.eyemod.tnt_explode": "Explode",
 	"text.eyemod.tnt_fire": "Fire",
 	"text.eyemod.tnt_damage": "Damage",
 	"text.eyemod.tnt_timer": "Timer:",
 	"text.eyemod.tnt_size": "Explosion size: {v}",
 	
-	//Teleport
 	"text.eyemod.teleport_tp": "Teleport",
 	"text.eyemod.teleport_to": "Teleport to:",
 	"text.eyemod.teleport_target": "Target player:",
 	
-	//Spawner
 	"text.eyemod.spawner_tospawn": "Entity to spawn:",
 	"text.eyemod.spawner_amount": "Amount: {v}",
 	"text.eyemod.spawner_info": "Entity info:",
 	
-	//XRay
 	"text.eyemod.xray_legend": "Legend",
 	
-	//Spawner
 	"text.eyemod.magic_effect": "Effect to apply:",
 	"text.eyemod.magic_level": "Level: {v}",
 	
-	//World
 	"text.eyemod.world_time": "Set time to: {v}",
 	
-	//Weather
 	"text.eyemod.weather_sunny": "Sunny",
 	"text.eyemod.weather_raining": "Raining",
 	"text.eyemod.weather_snowing": "Snowing",
@@ -274,7 +248,6 @@
 	"text.eyemod.weather_humidity": "Humidity: {v}",
 	"text.eyemod.weather_rain": "Rain chance: {v}",
 	
-	//Spawn
 	"text.eyemod.spawn_home": "Set home",
 	
 	"text.eyemod.end": "End"
