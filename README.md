@@ -1,13 +1,15 @@
 # <img src="temporary/emojis/FLRT.png" width="25" height="25"/>FLRT-ResourcePack
 **About:** 
 "master" branch of FLRT-ResourcePack
-A branch wich will be always active updating to the newest, as know as an **alpha** version!
+A branch wich will be always active updating to the newest, it's also as know as an **alpha** version here!
 **Owner&Co-owner:** [@HiltonLai](https://github.com/HiltonLai) & [@JS_arthurliao](https://github.com/JSarthurliao)
 
 > [!WARNING]
 > You shall not shared any files or send these resourcepack files to public without authorized by owner of "FLRT ResourcePack" [@HiltonLai](https://github.com/HiltonLai)
+
 ---
-### 🆕News and complete ☑️checks
+### ❗News & ✅Checks
+
 <table>
     <tr>
         <th>catagory</th>
@@ -17,26 +19,34 @@ A branch wich will be always active updating to the newest, as know as an **alph
         <th>list</th>
     </tr>
     <tr>
-        <td rowspan="5">mtr</td>
+        <td rowspan="3">mtr</td>
         <td><li>[ ] </li></td>
         <td><img src="temporary/emojis/develop.png" width="25" height="25"/></td>
-        <td>"o2" models import</td>
+        <td>"o2" ocean_cruiser model</td>
     </tr>
     <tr>
         <td><li>[x] </li></td>
         <td><img src="temporary/emojis/update.png" width="25" height="25"/></td>
-        <td>import mtr custom font</td>
+        <td>mtr custom font</td>
     </tr>
     <tr>
-        <td>radio</td>
-        <td>单选按钮</td>
+        <td><li>[x] </li></td>
+        <td><img src="temporary/emojis/update.png" width="25" height="25"/></td>
+        <td>mtr custom sign</td>
     </tr>
     <tr>
-        <td>CheckBox</td>
-        <td>复选按钮</td>
+        <td>jsblock</td>
+        <td><li>[ ] </li></td>
+        <td><img src="temporary/emojis/develop.png" width="25" height="25"/></td>
+        <td><details>
+              <summary>custom pids</summary>
+              passanger information dynamic system
+            </details></td>
     </tr>
-    <tr><td>button</td>
-        <td>普通按钮</td>
+    <tr>
+        <td>mlm</td>
+        <td><li>[x] </li></td>
+        <td><img src="temporary/emojis/update.png" width="25" height="25"/></td>
     </tr>
     <tr>
         <td>submit</td>
@@ -81,7 +91,7 @@ A branch wich will be always active updating to the newest, as know as an **alph
     </tr>
 </table>
 
-- [x] custom mtr 
+ 
 - [ ] custom pids
 - [x] custom sounds mlm series
 - [x] lang files improvement
@@ -104,5 +114,3 @@ A branch wich will be always active updating to the newest, as know as an **alph
     Need more example for o_train
   </details>
 </details>
-
-Testing...
