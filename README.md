@@ -2,6 +2,7 @@
 **About:** 
 "master" branch of FLRT-ResourcePack
 A branch wich will be always active updating to the newest, as know as an **alpha** version!
+**Owner&Co-owner:** [@HiltonLai](https://github.com/HiltonLai) & [@JS_arthurliao](https://github.com/JSarthurliao)
 
 > [!WARNING]
 > You shall not shared any files or send these resourcepack files to public without authorized by owner of "FLRT ResourcePack" [@HiltonLai](https://github.com/HiltonLai)
