@@ -8,7 +8,7 @@ A branch wich will be always active updating to the newest, as know as an **alph
 ---
 ### 🆕News and complete ☑️checks
 - [x] "o_train.bbmodel" formatting imporved
-- [ ] "o2" models import
+- [ ] <img src="temporary/emojis/develop.png" width="25" height="25"/>"o2" models import
 - [x] import mtr font 
 - [x] custom mtr signs
 - [ ] custom pids
