@@ -17,136 +17,136 @@
             {
                 "name": "mlm:door/door_close_only",
                 "attenuation_distance": 4}]},
-    "taipa.stations.arrival.barra": {
-        "subtitles": "mlm.taipa.barra.arrival",
+    "taipa.stations.arriving.barra": {
+        "subtitles": "mlm.taipa.barra.arriving",
         "sounds": [
             {
-                "name": "mlm:stations/arrival/barra_arrival"}]},
+                "name": "mlm:stations/arriving/barra_arriving"}]},
     "taipa.ststions.arrived.barra": {
         "subtitles": "mlm.taipa.barra.arrived",
         "sounds": [
             {
                 "name": "mlm:stations/arrived/barra_arrived"}]},
-    "taipa.stations.arrival.ocean": {
-        "subtitles": "mlm.taipa.ocean.arrival",
+    "taipa.stations.arriving.ocean": {
+        "subtitles": "mlm.taipa.ocean.arriving",
         "sounds":[
             {
-                "name": "mlm:stations/arrival/ocean_arrival"}]},
+                "name": "mlm:stations/arriving/ocean_arriving"}]},
     "taipa.stations.arrived.ocean": {
         "subtitles": "mlm.taipa.ocean.arrived",
         "sounds":[
             {
                 "name": "mlm:stations/arrived/ocean_arrived"}]},
-    "taipa.stations.arrival.jockey.club": {
-        "subtitles": "mlm.taipa.jockey.club.arrival",
+    "taipa.stations.arriving.jockey.club": {
+        "subtitles": "mlm.taipa.jockey.club.arriving",
         "sounds": [
             {
-                "name": "mlm:stations/arrival/jockey_club_arrival"}]},
+                "name": "mlm:stations/arriving/jockey_club_arriving"}]},
     "taipa.stations.arrived.jockey.club": {
         "subtitles": "mlm.taipa.jockey.club.arrived",
         "sounds": [
             {
                 "name": "mlm:stations/arrived/jockey_club_arrived"}]},
-    "taipa.stations.arrival.stadium": {
-        "subtitles": "mlm.taipa.statium.arrival",
+    "taipa.stations.arriving.stadium": {
+        "subtitles": "mlm.taipa.statium.arriving",
         "sounds": [
             {
-                "name": "mlm:stations/arrival/stadium_arrival"}]},
+                "name": "mlm:stations/arriving/stadium_arriving"}]},
     "taipa.stations.arrived.stadium": {
         "subtitles": "mlm.taipa.statium.arrived",
         "sounds": [
             {
                 "name": "mlm:stations/arrived/stadium_arrived"}]},
-    "taipa.stations.arrival.pai.kok": {
-        "subtitles": "mlm.taipa.pai.kok.arrival",
+    "taipa.stations.arriving.pai.kok": {
+        "subtitles": "mlm.taipa.pai.kok.arriving",
         "sounds": [
             {
-                "name": "mlm:stations/arrival/pai_kok_arrival"}]},
+                "name": "mlm:stations/arriving/pai_kok_arriving"}]},
     "taipa.stations.arrived.pai.kok": {
         "subtitles": "mlm.taipa.api.kok.arrived",
         "sounds": [
             {
                 "name": "mlm:stations/arrived/pai_kok_arrived"}]},
-    "taipa.stations.arrival.cotai.west": {
-        "subtitles": "mlm.taipa.cotai.west.arrival",
+    "taipa.stations.arriving.cotai.west": {
+        "subtitles": "mlm.taipa.cotai.west.arriving",
         "sounds": [
             {
-                "name": "mlm:stations/arrival/cotai_west_arrival"}]},
+                "name": "mlm:stations/arriving/cotai_west_arriving"}]},
     "taipa.stations.arrived.cotai.west": {
         "subtitles": "mlm.taipa.cotai.west.arrived",
         "sounds": [
             {
                 "name": "mlm:stations/arrived/cotai_west_arrived"}]},
-    "taipa.stations.arrival.lotus": {
-        "subtitles": "mlm.taipa.lotus.arrival",
+    "taipa.stations.arriving.lotus": {
+        "subtitles": "mlm.taipa.lotus.arriving",
         "sounds": [
             {
-                "name": "mlm:stations/arrived/lotus_arrival"}]},
+                "name": "mlm:stations/arrived/lotus_arriving"}]},
     "taipa.stations.arrived.lotus": {
         "subtitles": "mlm.taipa.lotus.arrived",
         "sounds": [
             {
                 "name": "mlm:stations/arrived/lotus_arrived"}]},   
-    "taipa.stations.arrival.island.hospital": {
-        "subtitles": "mlm.taipa.island.hospital.arrival",
+    "taipa.stations.arriving.island.hospital": {
+        "subtitles": "mlm.taipa.island.hospital.arriving",
         "sounds": [
             {
-                "name": "mlm:stations/arrival/island_hospital_arrival"}]},    
+                "name": "mlm:stations/arriving/island_hospital_arriving"}]},    
     "taipa.stations.arrived.island.hospital": {
         "subtitles": "mlm.taipa.island.hospital.arrived",
         "sounds": [
             {
                 "name": "mlm:stations/arrived/island_hospital_arrived"}]},
-    "taipa.stations.arrival.east.asian.games": {
-        "subtitles": "mlm.taipa.east.asian.games.arrival",
+    "taipa.stations.arriving.east.asian.games": {
+        "subtitles": "mlm.taipa.east.asian.games.arriving",
         "sounds": [
             {
-                "name": "mlm:stations/arrival/east_asian_games_arrival"}]},
+                "name": "mlm:stations/arriving/east_asian_games_arriving"}]},
     "taipa.stations.arrived.east.asian.games": {
         "subtitles": "mlm.taipa.east.asian.games.arrived",
         "sounds": [
             {
                 "name": "mlm:stations/arrived/east_asian_games_arrived"}]},
-    "taipa.stations.arrival.cotai.east": {
-        "subtitles": "mlm.taipa.cotai.east.arrival",
+    "taipa.stations.arriving.cotai.east": {
+        "subtitles": "mlm.taipa.cotai.east.arriving",
         "sounds": [
             {
-                "name": "mlm:stations/arrival/cotai_east_arrival"}]},
+                "name": "mlm:stations/arriving/cotai_east_arriving"}]},
     "taipa.stations.arrived.cotai.east": {
         "subtitles": "mlm.taipa.cotai.east.arrived",
         "sounds": [
             {
                 "name": "mlm:stations/arrived/cotai_east_arrived"}]},
-    "taipa.stations.arrival.must": {
-        "subtitles": "mlm.taipa.must.arrival",
+    "taipa.stations.arriving.must": {
+        "subtitles": "mlm.taipa.must.arriving",
         "sounds": [
             {
-                "name": "mlm:stations/arrival/must_arrival"}]},
+                "name": "mlm:stations/arriving/must_arriving"}]},
     "taipa.stations.arrived.must": {
         "subtitles": "mlm.taipa.must.arrived",
         "sounds": [
             {
                 "name": "mlm:stations/arrived/must_arrived"}]},
-    "taipa.stations.arrival.airport": {
-        "subtitles": "mlm.taipa.airport.arrival",
+    "taipa.stations.arriving.airport": {
+        "subtitles": "mlm.taipa.airport.arriving",
         "sounds": [
             {
-                "name": "mlm:stations/arrival/airport_arrival"}]},
+                "name": "mlm:stations/arriving/airport_arriving"}]},
     "taipa.stations.arrived.airport": {
         "subtitles": "mlm.taipa.airport.arrived",
         "sounds": [
             {
                 "name": "mlm:stations/arrived/airport_arrived"}]},
-    "taipa.stations.arrival.taipa.ferry.terminal": {
-        "subtitles": "mlm.taipa.taipa.ferry.terminal.arrival",
+    "taipa.stations.arriving.taipa.ferry.terminal": {
+        "subtitles": "mlm.taipa.taipa.ferry.terminal.arriving",
         "sounds": [
             {
-                "name": "mlm:stations/arrival/taipa_ferry_terminal_arrival"}]},
+                "name": "mlm:stations/arriving/taipa_ferry_terminal_arriving"}]},
     "taipa.stations.arrived.taipa.ferry.terminal": {
         "subtitles": "mlm.taipa.taipa.ferry.terminal.arrived",
         "sounds": [
             {
-                "name": "mlm:stations/arrival/taipa_ferry_terminal_arrived"}]},
+                "name": "mlm:stations/arriving/taipa_ferry_terminal_arrived"}]},
     "taipai.stations.announcement.terminal.barra": {
         "subtitles": "mlm.taipa.stations.terminal.barra",
         "sounds": [
