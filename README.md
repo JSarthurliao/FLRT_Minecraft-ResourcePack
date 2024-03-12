@@ -1,5 +1,5 @@
 # <img src="temporary/emojis/FLRT.png" width="28" height="28"/>FLRT-ResourcePack
-[**#<img src="temporary/emojis/Minecraft.png" width="25" height="25"/>Minecraft**](https://www.minecraft.net/en-us)·[**#<img src="temporary/emojis/Discord.png" width="25" height="25"/>Discord**](discord.gg/vZGpr4WTBy)
+[**<img src="temporary/emojis/Minecraft.png" width="25" height="25"/>#Minecraft**](https://www.minecraft.net/en-us)·[**<img src="temporary/emojis/Discord.png" width="25" height="25"/>#Discord**](https://discord.com/invite/vZGpr4WTBy)
 
 **About:** 
 "master" branch of FLRT-ResourcePack
@@ -63,9 +63,6 @@ A branch wich will be always active updating to the newest, it's also as know as
         <td><img src="temporary/emojis/update.png" width="25" height="25"/> Update</td>
     </tr>
 </table>
-
- 
-- [x] lang files improvement
 
 ### Knowned issues
 <details>
