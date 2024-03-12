@@ -1,6 +1,10 @@
 # <img src="temporary/emojis/FLRT.png" width="28" height="28"/>FLRT-ResourcePack
 [![Minecraft](temporary/emojis/Minecraft.png)](https://www.minecraft.net/en-us) • [![Discord](temporary/emojis/Discord.png)](https://discord.com/invite/vZGpr4WTBy)
 
+FLRT-ResourcePack is a resource pack for FLRT Minecraft server using.
+The resourcepack project at here was created by JS_arthurliao at March 6th, 2024.
+___
+## Current branch: 
 |master|
 |:--:|
 
@@ -14,7 +18,6 @@ A branch which will be always update frequently!
 > [!WARNING]
 > You shall not shared any files or send these resourcepack files to public without authorized by owner of "FLRT ResourcePack" [@HiltonLai](https://github.com/HiltonLai)
 
----
 ## Working progress
 
 <table>
