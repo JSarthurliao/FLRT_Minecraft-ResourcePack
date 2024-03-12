@@ -8,6 +8,7 @@
 **About:**
 FLRT-ResourcePack **master** branch.
 A branch which will be always update frequently!
+
 **Owner&Co-owner:** [@HiltonLai](https://github.com/HiltonLai) & [@JS_arthurliao](https://github.com/JSarthurliao)
 
 > [!WARNING]
@@ -19,15 +20,14 @@ A branch which will be always update frequently!
 <table>
     <tr>
         <th>catagory</th>
-        <th>check
-          mark</th>
-        <th>states</th>
-        <th>list</th>
+        <th>check_mark</th>
+        <th>statements</th>
+        <th>code list</th>
     </tr>
     <tr>
         <td rowspan="3">mtr</td>
         <td><ul><li>[ ] </li></ul></td>
-        <td><img src="temporary/emojis/develop.png" width="25" height="25"/></td>
+        <td><img src="temporary/emojis/develop.png" width="25" height="25"/> Develop</td>
         <td>"o2" ocean_cruiser model</td>
     </tr>
     <tr>
