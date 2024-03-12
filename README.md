@@ -62,35 +62,6 @@ A branch wich will be always active updating to the newest, it's also as know as
         <td><ul><li>[x] </li></ul></td>
         <td><img src="temporary/emojis/update.png" width="25" height="25"/> Update</td>
     </tr>
-    <tr>
-        <td >file</td>
-        <td>文件域</td>
-    </tr>
-    <tr>
-        <td >name</td>
-        <td>用户自定义</td>
-        <td>控件名称</td>
-    </tr>
-    <tr>
-        <td >value</td>
-        <td >用户自定义</td>
-        <td >默认文本值</td>
-    </tr>
-    <tr>
-        <td >size</td>
-        <td >正整数</td>
-        <td >控件在页面中的显示宽度</td>
-    </tr>
-    <tr>
-        <td >checked</td>
-        <td >checked</td>
-        <td >定义选择控件默认被选中项</td>
-    </tr>
-    <tr>
-        <td >maxlength</td>
-        <td >正整数</td>
-        <td >控件允许输入的最多字符</td>
-    </tr>
 </table>
 
  
