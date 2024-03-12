@@ -72,7 +72,7 @@ A branch wich will be always active updating to the newest, it's also as know as
   <summary>Minecraft:</summary>
   new emojis cannot be load.
   <details>
-    <summary>ℹinformation:</summary>
+    <summary>information:</summary>
     Need more information for the minecraft emojis json file name
     </details>
 </details>
