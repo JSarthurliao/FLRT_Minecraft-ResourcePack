@@ -1,5 +1,5 @@
 # <img src="temporary/emojis/FLRT.png" width="28" height="28"/>FLRT-ResourcePack
-[![Minecraft](https://www.google.com/imgres?imgurl=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FPurple122%2Fv4%2F6d%2F2d%2F18%2F6d2d18a5-691d-2ea8-e9e1-8b93ae81d284%2FAppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png%2F1200x630wa.png&tbnid=Phfim7kq3C-4iM&vet=1&imgrefurl=https%3A%2F%2Fapps.apple.com%2Fhk%2Fapp%2Fminecraft%2Fid479516143&docid=KYqgSkJdiRBDjM&w=1200&h=630&hl=zh-hant-tw&source=sh%2Fx%2Fim%2Fm1%2F3&kgs=e30846df87b10c25&shem=trie)](https://www.minecraft.net/en-us)·[**<img src="temporary/emojis/Discord.png" width="25" height="25"/>#Discord**](https://discord.com/invite/vZGpr4WTBy)
+<img src="temporary/emojis/Minecraft.png" width="25" height="25"/>[**Minecraft**](https://www.minecraft.net/en-us)·<img src="temporary/emojis/Discord.png" width="25" height="25"/>[**Discord**](https://discord.com/invite/vZGpr4WTBy)
 
 **About:** 
 "master" branch of FLRT-ResourcePack
