@@ -1,5 +1,5 @@
 # <img src="temporary/emojis/FLRT.png" width="28" height="28"/>FLRT-ResourcePack
-[![Minecraft](temporary/emojis/Minecraft.png](https://www.minecraft.net/en-us)·[![Discord](temporary/emojis/Discord.png)](https://discord.com/invite/vZGpr4WTBy)
+[![Minecraft](temporary/emojis/Minecraft.png)](https://www.minecraft.net/en-us) [![Discord](temporary/emojis/Discord.png)](https://discord.com/invite/vZGpr4WTBy)
 
 |master|
 |:--:|
