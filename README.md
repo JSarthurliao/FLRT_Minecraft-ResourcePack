@@ -68,21 +68,17 @@ A branch which will be always update frequently!
     </tr>
 </table>
 
-### Knowned issues
+### Knowned issues and fixed
 <details>
-  <summary>Minecraft:</summary>
-  new emojis cannot be load.
-  <details>
-    <summary>information:</summary>
-    Need more information for the minecraft emojis json file name
-    </details>
+  <summary>Minecraft</summary>
+  <ul><li>
+     - [ ] #1
+  </li></ul>
 </details>
 
 <details>
-  <summary>MTR:</summary>
-  missing "properties.json" for o_train model
-  <details>
-    <summary>information:</summary>
-    Need more example for o_train
-  </details>
+  <summary>MTR</summary>
+  <ul><li>
+      - [ ] 
+  </li></ul>
 </details>
