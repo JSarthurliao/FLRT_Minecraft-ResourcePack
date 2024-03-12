@@ -1,10 +1,11 @@
 # <img src="temporary/emojis/FLRT.png" width="28" height="28"/>FLRT-ResourcePack
-[![Minecraft](temporary/emojis/Minecraft.png)](https://www.minecraft.net/en-us) [![Discord](temporary/emojis/Discord.png)](https://discord.com/invite/vZGpr4WTBy)
+[![Minecraft](temporary/emojis/Minecraft.png)](https://www.minecraft.net/en-us) • [![Discord](temporary/emojis/Discord.png)](https://discord.com/invite/vZGpr4WTBy)
 
 |master|
 |:--:|
 
-**About**
+## Main information
+**About:**
 FLRT-ResourcePack **master** branch.
 A branch which will be always update frequently!
 **Owner&Co-owner:** [@HiltonLai](https://github.com/HiltonLai) & [@JS_arthurliao](https://github.com/JSarthurliao)
@@ -13,7 +14,7 @@ A branch which will be always update frequently!
 > You shall not shared any files or send these resourcepack files to public without authorized by owner of "FLRT ResourcePack" [@HiltonLai](https://github.com/HiltonLai)
 
 ---
-### Working progress
+## Working progress
 
 <table>
     <tr>
