@@ -1,4 +1,5 @@
-# <img src="temporary/emojis/FLRT.png" width="25" height="25"/>FLRT-ResourcePack
+# <img src="temporary/emojis/FLRT.png" width="28" height="28"/>FLRT-ResourcePack
+[**#Minecraft**](https://www.minecraft.net/en-us)
 **About:** 
 "master" branch of FLRT-ResourcePack
 A branch wich will be always active updating to the newest, it's also as know as an **alpha** version here!
@@ -20,45 +21,45 @@ A branch wich will be always active updating to the newest, it's also as know as
     </tr>
     <tr>
         <td rowspan="3">mtr</td>
-        <td><li>[ ] </li></td>
+        <td><ul><li>[ ] </li></ul></td>
         <td><img src="temporary/emojis/develop.png" width="25" height="25"/></td>
         <td>"o2" ocean_cruiser model</td>
     </tr>
     <tr>
-        <td><li>[x] </li></td>
-        <td><img src="temporary/emojis/update.png" width="25" height="25"/></td>
+        <td><ul><li>[x] </li></ul></td>
+        <td><img src="temporary/emojis/update.png" width="25" height="25"/> Update</td>
         <td>mtr custom font</td>
     </tr>
     <tr>
-        <td><li>[x] </li></td>
-        <td><img src="temporary/emojis/update.png" width="25" height="25"/></td>
+        <td><ul><li>[x] </li></ul></td>
+        <td><img src="temporary/emojis/update.png" width="25" height="25"/> Update</td>
         <td>mtr custom sign</td>
     </tr>
     <tr>
         <td>jsblock</td>
-        <td><li>[ ] </li></td>
-        <td><img src="temporary/emojis/develop.png" width="25" height="25"/></td>
+        <td><ul><li>[ ] </li></ul></td>
+        <td><img src="temporary/emojis/develop.png" width="25" height="25"/> Develop</td>
         <td><details>
               <summary>custom pids</summary>
-              passanger information dynamic system
+              Full name: passanger information dynamic system
             </details></td>
     </tr>
     <tr>
         <td>mlm</td>
-        <td><li>[x] </li></td>
-        <td><img src="temporary/emojis/update.png" width="25" height="25"/></td>
+        <td><ul><li>[x] </li></ul></td>
+        <td><img src="temporary/emojis/update.png" width="25" height="25"/> Update</td>
+        <td>custom mlm repository sounds</td>
     </tr>
     <tr>
-        <td>submit</td>
-        <td>提交按钮</td>
+        <td>eyemod</td>
+        <td><ul><li>[x] </li></ul></td>
+        <td><img src="temporary/emojis/update.png" width="25" height="25"/> Update</td>
+        <td rowspan="2">language files update and fixed</td>
     </tr>
     <tr>
-        <td>reset</td>
-        <td>重置按钮</td>
-    </tr>
-    <tr>
-        <td>image</td>
-        <td>图像形式的提交按钮</td>
+        <td>car</td>
+        <td><ul><li>[x] </li></ul></td>
+        <td><img src="temporary/emojis/update.png" width="25" height="25"/> Update</td>
     </tr>
     <tr>
         <td >file</td>
@@ -92,8 +93,6 @@ A branch wich will be always active updating to the newest, it's also as know as
 </table>
 
  
-- [ ] custom pids
-- [x] custom sounds mlm series
 - [x] lang files improvement
 
 ### Knowned issues
@@ -101,7 +100,7 @@ A branch wich will be always active updating to the newest, it's also as know as
   <summary>Minecraft:</summary>
   new emojis cannot be load.
   <details>
-    <summary>ℹ️information:</summary>
+    <summary>ℹinformation:</summary>
     Need more information for the minecraft emojis json file name
     </details>
 </details>
@@ -110,7 +109,7 @@ A branch wich will be always active updating to the newest, it's also as know as
   <summary>MTR:</summary>
   missing "properties.json" for o_train model
   <details>
-    <summary>ℹ️information:</summary>
+    <summary>information:</summary>
     Need more example for o_train
   </details>
 </details>
