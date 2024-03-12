@@ -1,5 +1,6 @@
 # <img src="temporary/emojis/FLRT.png" width="28" height="28"/>FLRT-ResourcePack
-[**#Minecraft**](https://www.minecraft.net/en-us)
+[**#<img src="temporary/emojis/Minecraft.png" width="25" height="25"/>Minecraft**](https://www.minecraft.net/en-us)·[**#<img src="temporary/emojis/Discord.png" width="25" height="25"/>Discord**](discord.gg/vZGpr4WTBy)
+
 **About:** 
 "master" branch of FLRT-ResourcePack
 A branch wich will be always active updating to the newest, it's also as know as an **alpha** version here!
