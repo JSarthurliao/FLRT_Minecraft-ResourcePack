@@ -18,6 +18,15 @@ A branch which will be always update frequently!
 > [!WARNING]
 > You shall not shared any files or send these resourcepack files to public without authorized by owner of "FLRT ResourcePack" [@HiltonLai](https://github.com/HiltonLai)
 
+## The way to use our resource pack!
+### Guide wizard:
+1. Join FLRT Discord server from [**HERE**](https://discord.com/invite/vZGpr4WTBy)
+2. Warp to [**THIS CHANNEL**](https://discord.com/channels/1059729297365008404/1125442238734930071) in Discord FLRT server!
+3. Follow the current description in the following channel to link to download link
+4. After all, launch your Minecraft[^1]
+5. Enable your resource pack first before you join the server[^2]
+6. Congratulations! You complete all the following steps!
+
 ## Working progress
 
 <table>
