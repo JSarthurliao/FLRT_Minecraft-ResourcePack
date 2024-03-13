@@ -84,7 +84,7 @@ A branch which will be always update frequently!
 <details>
   <summary>Minecraft</summary>
   <ul><li>
-     - [ ] https://github.com/JSarthurliao/FLRT-ResourcePack/issues/1
+     - [ ] #1
   </li></ul>
 </details>
 
