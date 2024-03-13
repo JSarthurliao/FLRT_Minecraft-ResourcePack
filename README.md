@@ -94,3 +94,5 @@ A branch which will be always update frequently!
       - [ ] 
   </li></ul>
 </details>
+
+### Plan and new add announcement
