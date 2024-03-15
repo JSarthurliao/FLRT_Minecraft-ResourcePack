@@ -41,23 +41,23 @@ A branch which will be always update frequently!
     <tr>
         <td rowspan="3">mtr</td>
         <td><ul><li>[ ] </li></ul></td>
-        <td><img src="temporary/emojis/develop.png" width="25" height="25"/> Develop</td>
+        <td><img src="temporary/emojis/develop.png" width="30" height="30"/> Develop</td>
         <td>"o2" ocean_cruiser model</td>
     </tr>
     <tr>
         <td><ul><li>[x] </li></ul></td>
-        <td><img src="temporary/emojis/update.png" width="25" height="25"/> Update</td>
+        <td><img src="temporary/emojis/update.png" width="30" height="30"/> Update</td>
         <td>mtr custom font</td>
     </tr>
     <tr>
         <td><ul><li>[x] </li></ul></td>
-        <td><img src="temporary/emojis/update.png" width="25" height="25"/> Update</td>
+        <td><img src="temporary/emojis/update.png" width="30" height="30"/> Update</td>
         <td>mtr custom sign</td>
     </tr>
     <tr>
         <td>jsblock</td>
         <td><ul><li>[ ] </li></ul></td>
-        <td><img src="temporary/emojis/develop.png" width="25" height="25"/> Develop</td>
+        <td><img src="temporary/emojis/develop.png" width="30" height="30"/> Develop</td>
         <td><details>
               <summary>custom pids</summary>
               Full name: passanger information dynamic system
@@ -66,19 +66,19 @@ A branch which will be always update frequently!
     <tr>
         <td>mlm</td>
         <td><ul><li>[x] </li></ul></td>
-        <td><img src="temporary/emojis/update.png" width="25" height="25"/> Update</td>
+        <td><img src="temporary/emojis/update.png" width="30" height="30"/> Update</td>
         <td>custom mlm repository sounds</td>
     </tr>
     <tr>
         <td>eyemod</td>
         <td><ul><li>[x] </li></ul></td>
-        <td><img src="temporary/emojis/update.png" width="25" height="25"/> Update</td>
+        <td><img src="temporary/emojis/update.png" width="30" height="30"/> Update</td>
         <td rowspan="2">language files update and fixed</td>
     </tr>
     <tr>
         <td>car</td>
         <td><ul><li>[x] </li></ul></td>
-        <td><img src="temporary/emojis/update.png" width="25" height="25"/> Update</td>
+        <td><img src="temporary/emojis/update.png" width="30" height="30"/> Update</td>
     </tr>
 </table>
 
