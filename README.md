@@ -27,6 +27,9 @@ A branch which will be always update frequently!
 5. Enable your resource pack first before you join the server[^2]
 6. Congratulations! You complete all the following steps!
 
+**Notes:**
+[^1]:  Please follow from [HERE](https://discord.com/channels/1059729297365008404/1125442391034306652) to setup your Minecraft for joinging FLRT Minecraft server
+
 ## Working progress
 
 <table>
