@@ -2,13 +2,13 @@
     "providers": [
         {
             "type": "ttf",
-            "file": "mtr:msgothic.ttf",
+            "file": "mtr:avenir-medium.ttf",
             "size": 12.0,
             "oversample": 16.0
         },
         {
-            "type": "ttf",
-            "file": "mtr:microsoft-jhenghei.ttf",
+            "type": "ttc",
+            "file": "mtr:dfheimedium-b5.ttc",
             "size": 12.0,
             "oversample": 16.0
         }
