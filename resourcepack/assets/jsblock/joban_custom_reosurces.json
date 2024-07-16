@@ -1,0 +1,24 @@
+{
+    "pids_images": [
+        {
+            "id": "pids_mlm_blue_theme",
+            "showWeather": true,
+            "showClock": true,
+            "hideRow": [true, true, true, false],
+            "customTextPushArrival": false,
+            "background": "jsblock:custom_directory/pids_mlm_blue_theme.png",
+            "fonts": "mtr:mtr",
+            "color": "FFFFFF"
+        },
+        {
+            "id": "signuptable_stopservices",
+            "showWeather": false,
+            "showClock": false,
+            "hideRow": [true, true, true, false],
+            "customTextPushArrival": false,
+            "background": "jsblock:request_forest/pids_present/signuptable_stopservices.png",
+            "fonts": "mtr:mtr",
+            "color": "FFFFFF"  
+        }
+    ]
+}
