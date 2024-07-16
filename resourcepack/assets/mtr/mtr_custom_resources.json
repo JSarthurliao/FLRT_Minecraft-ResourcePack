@@ -10,19 +10,7 @@
             "rider_offset": 0.0,
             "texture_id": "mtr:o1/o_train.png",
             "model": "mtr:o1/o_train.bbmodel",
-            "model_properties": "mtr:o1/o_train.json"},
-        "o2_train": {
-            "name": "[New]Ocean Cruiser",
-            "description": "Macau New LRT Taipa Train",
-            "wikipedia_article": "", "color": "023062",
-            "gangway_connection_id": "",
-            "train_barrier_id": "", "door_animation_type": "STANDARD",
-            "render_door_overlay": false,
-            "rider_offset": 0.0,
-            "texture_id": "minecraft:textures/misc/white.png",
-            "model": "mtr:O2_train/am.obj",
-            "model_properties": "mtr:O2_train/o2_properties.json",
-            "flipV": true}},
+            "model_properties": "mtr:o1/o_train.json"}},
     "custom_signs": {
         "customer_service_centre": {
             "texture_id": "mtr:request_forest/sign/customer_service_centre.png",
