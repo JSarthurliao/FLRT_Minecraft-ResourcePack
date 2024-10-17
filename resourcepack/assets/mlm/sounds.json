@@ -166,19 +166,19 @@
             }
         ]
     },
-    "tal.arriving.easten.asian.games": {
-        "subtitles": "mlm.taipa.seac.pai.van.easten.asian.games.arriving",
+    "tal.arriving.east.asian.games": {
+        "subtitles": "mlm.taipa.seac.pai.van.east.asian.games.arriving",
         "sounds": [
             {
-                "name": "mlm:tal/arriving/easten_asian_games_arriving"
+                "name": "mlm:tal/arriving/east_asian_games_arriving"
             }
         ]
     },
-    "tal.arrived.easten.asian.games": {
+    "tal.arrived.east.asian.games": {
         "subtitles": "mlm.taipa.east.asian.games.arrived",
         "sounds": [
             {
-                "name": "mlm:tal/arrived/easten_asian_games_arrived"
+                "name": "mlm:tal/arrived/east_asian_games_arrived"
             }
         ]
     },
@@ -302,8 +302,8 @@
 
 
 
-    "terminus": {
-        "subtitles": "mlm.terminus",
+    "announcement.terminus": {
+        "subtitles": "mlm.announcement.terminus",
         "sounds": [
             {
                 "name": "mlm:terminus"
