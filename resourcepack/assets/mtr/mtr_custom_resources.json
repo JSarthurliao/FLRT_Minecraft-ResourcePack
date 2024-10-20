@@ -10,7 +10,10 @@
             "rider_offset": 0.0,
             "texture_id": "mtr:o1/o_train.png",
             "model": "mtr:o1/o_train.bbmodel",
-            "model_properties": "mtr:o1/o_train.json"
+            "model_properties": "mtr:o1/o_train.json",
+            "door_sound_base_id": "o1",
+			"speed_sound_base_id": "o1",
+			"speed_sound_count": 96
         },
         "o2_train": {
             "name": "[New]Ocean Cruiser",
