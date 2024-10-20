@@ -25,6 +25,12 @@
             "model_properties": "mtr:O2_train/o2_properties.json",
             "flipV": true
         },
+        "q_train_ltrc_hk": {
+            "name": "Q-Train",
+            "color": "6E679B",
+            "base_train_type": "c_train",
+            "texture_id": "mtr:lt_q_train/q_train_ltrc_hk.png"
+        },
         "fixed_rtrain": {
 			"name": "R-train with first class by uu78kk",
 			"description": "R-train is a train made in china aka 1141b, like c1141a they got a very similiar engine but using MTR door distance while still having first class and its the only railway vision train that have ran stations that doesnt have apg or psd",
@@ -43,13 +49,8 @@
 			"color": "0000ff",
 			"base_train_type": "m_train",
 			"texture_id": "mtr:emu700/emu700.png"
-		},
-		"q_train_ltrc_hk": {
-			"name": "Q-Train",
-			"color": "6E679B",
-			"base_train_type": "c_train",
-			"texture_id": "mtr:lt_q_train/q_train_ltrc_hk.png"
-        }},
+	    }
+    },
     "custom_signs": {
         "customer_service_centre": {
             "texture_id": "mtr:request_forest/sign/customer_service_centre.png",
@@ -192,5 +193,5 @@
             "flip_custom_text": false,
             "small": true
         }
-        }
+    }
 }
