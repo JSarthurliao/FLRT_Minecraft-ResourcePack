@@ -52,6 +52,12 @@
 	    }
     },
     "custom_signs": {
+        "background": {
+            "texture_id": "mtr:request_forest/sign/empty.png",
+            "flip_texture": false,
+            "small": false,
+            "background_color": "023062"
+        },
         "customer_service_centre": {
             "texture_id": "mtr:request_forest/sign/customer_service_centre.png",
             "flip_texture": false,
