@@ -7,7 +7,7 @@ The resourcepack project at here was created by JS_arthurliao at March 6th, 2024
 
 ## Author(Owner  & Contributrs)
 **Owner**
-* [@HiltonLai](https://github.com/MC-FLRT)
+* [@Minecraft FLRT](https://github.com/MC-FLRT)
 
 **Contributors**
 * [@JS_arthurliao](https://github.com/JSarthurliao)
