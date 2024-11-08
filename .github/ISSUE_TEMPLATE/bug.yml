@@ -63,8 +63,8 @@ body:
         {}
         ```
         ...
-      validations:
-        required: false
+    validations:
+      required: false
         
   - type: checkboxes
     id: terms
