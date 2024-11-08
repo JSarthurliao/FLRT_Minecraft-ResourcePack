@@ -95,9 +95,9 @@ body:
       required: false
       
   - type: markdown
-   attributes:
-     value: |
-       **Thanks for you taking time to complete this bug report, we hope this will make us even better.**
+    attributes:
+      value: |
+        **Thanks for you taking time to complete this bug report, we hope this will make us even better.**
  
   - type: markdown
     attributes:
