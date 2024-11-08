@@ -3,8 +3,8 @@ description: Report any unusual behsvior of FLRT-Resource at here.
 title: "[Bug]<Name your bug title here>"
 labels: ["bug"]
 assignees:
-  - JS_arthurliao
-  - HiltonLao
+  - JS_arthurliao  
+  - HiltonLai
 body:
  
   - type: input
