@@ -1,6 +1,6 @@
 name: Bug Report
 description: Report any unusual behavior of FLRT-Resource at here.
-placeholder: [Bug]<Name your bug title here>
+title: [Bug]<Name your bug title here>
 labels: ["bug"]
 assignees:
   - JS_arthurliao  
