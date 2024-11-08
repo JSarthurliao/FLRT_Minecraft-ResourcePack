@@ -1,0 +1,92 @@
+name: Bug Report
+description: Report any unusual behsvior of FLRT-Resource at here.
+title: "[Bug]<Name your bug title here>"
+labels: ["bug"]
+assignees:
+  - JS_arthurliao
+  - HiltonLao
+body:
+ 
+  - type: input
+    id: version
+    attributes:
+      label: Q1. Resource Pack Version
+      description: Please look at the file zip name and tell us the current resource psck version now you are using on!
+      placeholder: v1.8.3
+    validations:
+      required: true
+      
+  - type: dropdown
+    id: mod
+    attributes:
+      label: Q2. Catagory(Mod)
+      description: Please hover and tell us which catagory does the bug related on! | You can also find it in "assets/" directory!
+      multiple: true
+      options:
+        - car
+        - eyemod
+        - framedblocks
+        - jsblock
+        - minecraft
+        - mlm
+        - mtr
+        - sodium
+    validations:
+      required: true
+      
+  - type: textarea
+    id: path
+    attributes:
+      label: Q3. Issue File(s) Path
+      description: Please list out all the issue files path if possible!
+      value: |
+        mtr:font/mtr.json
+        mlm:sounds.json
+        resourcepack/assets/mtr/font/mtr.json
+        resourcepack/pack.mcmeta
+    validations:
+      required: false
+      
+  - type: textarea
+    id: fix
+    attributes:
+      label: Q4. Fix The Issue File!
+      description: If you know how to fix it? Then why not just tell us?!
+      value: |
+        **File path:** mtr:mtr_custom_resources.json
+        ```json
+        {}
+        ```
+        
+        **File path:** ...
+        ```json
+        {}
+        ```
+        ...
+      validations:
+        required: false
+        
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Q5. Check Before Submit & Think Before Do It.
+      description: By submitting this issue, you must agree with these below: 
+      options:
+        - lable: I swear I'm not using this report form for spamming
+          required: true
+        - label: I had make sure my issue report is not exisitexd
+          required: true
+        - lable: Make sure to check everything before you submit
+          required: true
+        - lable: I would like to provide my contact information on Q6. to get reply if there's any activity on my report
+          required: false
+          
+  - type: input
+    id: contact
+    attributes:
+      lable: Q6. Contact
+      description: If you chose the last option on the Q5., make sure you fill this question!
+      placeholder: Your contwct information here(make sure it's available)
+    validations: 
+      required: false
+      
