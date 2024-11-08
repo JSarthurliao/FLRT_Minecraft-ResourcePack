@@ -8,8 +8,7 @@ assignees:
 body:
   - type: markdown
     attributes:
-      value: |
-        **To help us with bug(s), please fill this form carefully!**
+      value: To help us with bug(s), please fill this form carefully!
       
   - type: input
     id: version
@@ -96,8 +95,7 @@ body:
       
  - type: markdown
    attributes:
-     value: |
-       **Thanks for you taking time to complete this bug report, we hope this will make us even better.**
+     value: Thanks for you taking time to complete this bug report, we hope this will make us even better.
  
  - type: markdown
    attributes:
