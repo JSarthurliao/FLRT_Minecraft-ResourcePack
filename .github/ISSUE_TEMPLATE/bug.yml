@@ -70,11 +70,11 @@ body:
     id: terms
     attributes:
       label: Q5. Check Before Submit & Think Before Do It.
-      description: By submitting this issue, you must agree with these below: 
+      description: By submitting this issue, you must agree with these below
       options:
         - lable: I swear I'm not using this report form for spamming
           required: true
-        - label: I had make sure my issue report is not exisitexd
+        - label: I had make sure my issue report is not existed
           required: true
         - lable: Make sure to check everything before you submit
           required: true
