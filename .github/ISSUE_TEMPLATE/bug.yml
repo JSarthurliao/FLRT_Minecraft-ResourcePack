@@ -43,7 +43,7 @@ body:
     attributes:
       label: Q3. Issue File(s) Path
       description: Please list out all the issue files path if possible!
-      value: |
+      placeholder: |
         mtr:font/mtr.json
         mlm:sounds.json
         resourcepack/assets/mtr/font/mtr.json
@@ -56,7 +56,7 @@ body:
     attributes:
       label: Q4. Fix The Issue File!
       description: If you know how to fix it? Then why not just tell us?!
-      value: |
+      placeholder: |
         **File path:** mtr:mtr_custom_resources.json
         ```json
         {}
