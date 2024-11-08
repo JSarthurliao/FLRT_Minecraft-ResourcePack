@@ -1,5 +1,5 @@
 name: Bug Report
-description: Report any unusual behsvior of FLRT-Resource at here.
+description: Report any unusual behavior of FLRT-Resource at here.
 title: "[Bug]<Name your bug title here>"
 labels: ["bug"]
 assignees:
@@ -8,7 +8,8 @@ assignees:
 body:
   - type: markdown
     attributes:
-      value: To help us with bug(s), please fill this form carefully!
+      value: |
+        **To help us with bug(s), please fill this form carefully!**
       
   - type: input
     id: version
@@ -95,9 +96,11 @@ body:
       
  - type: markdown
    attributes:
-     value: Thanks for you taking time to complete this bug report, we hope this will make us even better.
+     value: |
+       **Thanks for you taking time to complete this bug report, we hope this will make us even better.**
  
  - type: markdown
    attributes:
-      value: 𝐒𝐭𝐚𝐲 𝐜𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐅𝐋𝐑𝐓:  𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗪𝗲𝗯𝘀𝗶𝘁𝗲: https://www.mcflrt.net  𝗗𝗶𝘀𝗰𝗼𝗿𝗱: https://discord.gg/vZGpr4WTBy  𝗬𝗼𝘂𝗧𝘂𝗯𝗲: https://youtube.com/@hilton.l?si=8Wh8zk7wWvGU_tnf
+      value: |
+        𝐒𝐭𝐚𝐲 𝐜𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐅𝐋𝐑𝐓:  [𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗪𝗲𝗯𝘀𝗶𝘁𝗲](https://www.mcflrt.net)  [𝗗𝗶𝘀𝗰𝗼𝗿𝗱](https://discord.gg/vZGpr4WTBy)  [𝗬𝗼𝘂𝗧𝘂𝗯𝗲](https://youtube.com/@hilton.l?si=8Wh8zk7wWvGU_tnf)
    
