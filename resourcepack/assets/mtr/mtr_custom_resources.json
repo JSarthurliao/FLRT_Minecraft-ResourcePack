@@ -27,7 +27,7 @@
         },
 	"urban_quartz":{
 		"name": "Urban Quartz",
-		"description": "No further information is here"
+		"description": "No further information is here",
 		"color": "a9a9a9",
 		"door_animation_type": "STANDARD",
 		"render_door_overlay": false,
