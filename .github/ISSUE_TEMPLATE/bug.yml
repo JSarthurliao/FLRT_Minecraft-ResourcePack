@@ -72,13 +72,13 @@ body:
       label: Q5. Check Before Submit & Think Before Do It.
       description: By submitting this issue, you must agree with these below
       options:
-        - lable: I swear I'm not using this report form for spamming
+        - I swear: I swear I'm not using this report form for spamming
           required: true
-        - label: I had make sure my issue report is not existed
+        - Make sure it's new: I had make sure my issue report is not existed
           required: true
-        - lable: Make sure to check everything before you submit
+        - I checked: Make sure to check everything before you submit
           required: true
-        - lable: I would like to provide my contact information on Q6. to get reply if there's any activity on my report
+        - Connect with us: I would like to provide my contact information on Q6. to get reply if there's any activity on my report
           required: false
           
   - type: input
