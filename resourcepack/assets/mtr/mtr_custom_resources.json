@@ -24,12 +24,24 @@
             "render_door_overlay": false,
             "rider_offset": 0.0,
             "texture_id": "minecraft:textures/misc/white.png",
-            "model": "mtr:O2_train/am.obj",
+            "model": "mtr:o2_train/am.obj",
             "model_properties": "mtr:O2_train/o2_properties.json",
             "flipV": true
         },
+	"urban_quartz":{
+		"name": "Urban Quartz",
+		"description": "No further information is here",
+		"color": "a9a9a9",
+		"door_animation_type": "STANDARD",
+		"render_door_overlay": false,
+		"rider_offset": 0.0,
+		"texture_id": "minecraft:textures/misc/white.png",
+		"model": "mtr:urban_quartz/urban_quartz.bbmodel",
+		"model_properties": "mtr:urban_quartz/urban_quartz.json"
+	},
         "q_train_ltrc_hk": {
             "name": "Q-Train",
+			"description": "Q type train made by @LTRC_HK",
             "color": "6E679B",
             "base_train_type": "c_train",
             "texture_id": "mtr:lt_q_train/q_train_ltrc_hk.png"

@@ -38,7 +38,7 @@
 
 
 
-    "tal.arriving.barra": {
+    "tal.barra.arriving": {
         "subtitles": "mlm.taipa.barra.arriving",
         "sounds": [
             {
@@ -46,7 +46,7 @@
             }
         ]
     },
-    "tal.arrived.barra": {
+    "tal.barra.arrived": {
         "subtitles": "mlm.taipa.barra.arrived",
         "sounds": [
             {
@@ -54,7 +54,7 @@
             }
         ]
     },
-    "tal.arriving.ocean": {
+    "tal.ocean.arriving": {
         "subtitles": "mlm.taipa.ocean.arriving",
         "sounds": [
             {
@@ -62,7 +62,7 @@
             }
         ]
     },
-    "tal.arrived.ocean": {
+    "tal.ocean.arrived": {
         "subtitles": "mlm.taipa.ocean.arrived",
         "sounds": [
             {
@@ -70,7 +70,7 @@
             }
         ]
     },
-    "tal.arriving.jockey.club": {
+    "tal.jockey.club.arriving": {
         "subtitles": "mlm.taipa.jockey.club.arriving",
         "sounds": [
             {
@@ -78,7 +78,7 @@
             }
         ]
     },
-    "tal.arrived.jockey.club": {
+    "tal.jockey.club.arrived": {
         "subtitles": "mlm.taipa.jockey.club.arrived",
         "sounds": [
             {
@@ -86,7 +86,7 @@
             }
         ]
     },
-    "tal.arriving.stadium": {
+    "tal.stadium.arriving": {
         "subtitles": "mlm.taipa.statium.arriving",
         "sounds": [
             {
@@ -94,7 +94,7 @@
             }
         ]
     },
-    "tal.arrived.stadium": {
+    "tal.stadium.arrived": {
         "subtitles": "mlm.taipa.statium.arrived",
         "sounds": [
             {
@@ -102,7 +102,7 @@
             }
         ]
     },
-    "tal.arriving.pai.kok": {
+    "tal.pai.kok.arriving": {
         "subtitles": "mlm.taipa.pai.kok.arriving",
         "sounds": [
             {
@@ -110,7 +110,7 @@
             }
         ]
     },
-    "tal.arrived.pai.kok": {
+    "tal.pai.kok.arrived": {
         "subtitles": "mlm.taipa.api.kok.arrived",
         "sounds": [
             {
@@ -118,7 +118,7 @@
             }
         ]
     },
-    "tal.arriving.cotai.west": {
+    "tal.cotai.west.arriving": {
         "subtitles": "mlm.taipa.cotai.west.arriving",
         "sounds": [
             {
@@ -126,7 +126,7 @@
             }
         ]
     },
-    "tal.arrived.cotai.west": {
+    "tal.cotai.west.arrived": {
         "subtitles": "mlm.taipa.cotai.west.arrived",
         "sounds": [
             {
@@ -134,7 +134,7 @@
             }
         ]
     },
-    "tal.arriving.lotus": {
+    "tal.lotus.arriving": {
         "subtitles": "mlm.taipa.lotus.arriving",
         "sounds": [
             {
@@ -142,7 +142,7 @@
             }
         ]
     },
-    "tal.arrived.lotus": {
+    "tal.lotus.arriving": {
         "subtitles": "mlm.taipa.lotus.arrived",
         "sounds": [
             {
@@ -150,7 +150,7 @@
             }
         ]
     },
-    "tal.spl.arriving.island.hospital": {
+    "tal.island.hospital.arriving": {
         "subtitles": "mlm.taipa.island.hospital.arriving",
         "sounds": [
             {
@@ -158,7 +158,7 @@
             }
         ]
     },
-    "tal.spl.arrived.island.hospital": {
+    "tal.island.hospital.arrived": {
         "subtitles": "mlm.taipa.seac.pai.van.island.hospital.arrived",
         "sounds": [
             {
@@ -166,7 +166,7 @@
             }
         ]
     },
-    "tal.arriving.east.asian.games": {
+    "tal.east.asian.games.arriving": {
         "subtitles": "mlm.taipa.seac.pai.van.east.asian.games.arriving",
         "sounds": [
             {
@@ -174,7 +174,7 @@
             }
         ]
     },
-    "tal.arrived.east.asian.games": {
+    "tal.east.asian.games.arrived": {
         "subtitles": "mlm.taipa.east.asian.games.arrived",
         "sounds": [
             {
@@ -182,7 +182,7 @@
             }
         ]
     },
-    "tal.arriving.cotai.east": {
+    "tal.cotai.east.arriving": {
         "subtitles": "mlm.taipa.cotai.east.arriving",
         "sounds": [
             {
@@ -190,7 +190,7 @@
             }
         ]
     },
-    "tal.arrived.cotai.east": {
+    "tal.cotai.east.arrived": {
         "subtitles": "mlm.taipa.cotai.east.arrived",
         "sounds": [
             {
@@ -198,7 +198,7 @@
             }
         ]
     },
-    "tal.arriving.must": {
+    "tal.must.arriving": {
         "subtitles": "mlm.taipa.must.arriving",
         "sounds": [
             {
@@ -206,7 +206,7 @@
             }
         ]
     },
-    "tal.arrived.must": {
+    "tal.must.arrived": {
         "subtitles": "mlm.taipa.must.arrived",
         "sounds": [
             {
@@ -214,7 +214,7 @@
             }
         ]
     },
-    "tal.arriving.airport": {
+    "tal.airport.arriving": {
         "subtitles": "mlm.taipa.airport.arriving",
         "sounds": [
             {
@@ -222,7 +222,7 @@
             }
         ]
     },
-    "tal.arrived.airport": {
+    "tal.airport.artived": {
         "subtitles": "mlm.taipa.airport.arrived",
         "sounds": [
             {
@@ -230,7 +230,7 @@
             }
         ]
     },
-    "tal.arriving.tal.ferry.terminal": {
+    "tal.tal.ferry.terminal.arriving": {
         "subtitles": "mlm.taipa.taipa.ferry.terminal.arriving",
         "sounds": [
             {
@@ -238,7 +238,7 @@
             }
         ]
     },
-    "tal.arrived.taipa.ferry.terminal": {
+    "tal.taipa.ferry.terminal.arrived": {
         "subtitles": "mlm.taipa.taipa.ferry.terminal.arrived",
         "sounds": [
             {
@@ -283,7 +283,7 @@
 
 
 
-    "spl.tal.arriving.island.hospital": {
+    "spl.island.hospital.arriving": {
         "subtitles": "mlm.seac.pai.van.taipa.island.hospital.arriving",
         "sounds": [
             {
@@ -291,7 +291,7 @@
             }
         ]
     },
-    "spl.tal.arrived.island.hospital": {
+    "spl.island.hospital.arrived": {
         "subtitles": "mlm.seac.pai.van.taipa.island.hospital.arrived",
         "sounds": [
             {

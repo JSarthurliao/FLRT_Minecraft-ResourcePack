@@ -7,7 +7,7 @@ The resourcepack project at here was created by JS_arthurliao at March 6th, 2024
 
 ## Author(Owner  & Contributrs)
 **Owner**
-* [@HiltonLai](https://github.com/HiltonLai)  
+* [@Minecraft FLRT](https://github.com/MC-FLRT)
 
 **Contributors**
 * [@JS_arthurliao](https://github.com/JSarthurliao)
@@ -16,9 +16,8 @@ The resourcepack project at here was created by JS_arthurliao at March 6th, 2024
 > (c) By FLRT Server
 > You shall not shared any files or send these resourcepack files to public without authorized by [@HiltonLai](https://github.com/HiltonLai)
 
-## Current branch: 
-|master|
-|:--:|
+## Current branch
+![branch](https://img.shields.io/badge/Branch-master-EFB032.svg)
 ___
 ## How to use?!
 ### Guide wizard:
