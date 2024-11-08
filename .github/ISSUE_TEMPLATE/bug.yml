@@ -1,6 +1,6 @@
 name: Bug Report
 description: Report any unusual behavior of FLRT-Resource at here.
-title: "[Bug]<Name your bug title here>"
+title: "[Bug]<Name your bug title here> "
 labels: ["bug"]
 assignees:
   - JS_arthurliao  
@@ -56,13 +56,13 @@ body:
     attributes:
       label: Q4. Fix The Issue File!
       description: If you know how to fix it? Then why not just tell us?!
-      placeholder: |
-        **File path:** mtr:mtr_custom_resources.json
+      value: |
+        **File1:** mtr:mtr_custom_resources.json
         ```json
         {}
-        ```
+        ``` 
         
-        **File path:** ...
+        **File2:** ...
         ```json
         {}
         ```
@@ -109,4 +109,4 @@ body:
    
   - type: markdown
     attributes: 
-      value: (c) Minecrafr FLRT Server, all rights reserved.
+      value: (c)<img src="temporary/emojis/FLRT.png" width="25" height="25"/>Minecrafr FLRT Server, all rights reserved.
