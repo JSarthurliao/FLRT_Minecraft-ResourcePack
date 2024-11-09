@@ -46,6 +46,8 @@ body:
       value: |
         *
         *
+    validations:
+      required: true
         
   - type: textarea
     id: path
