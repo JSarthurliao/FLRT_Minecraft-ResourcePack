@@ -37,11 +37,20 @@ body:
         - sodium
     validations:
       required: true
-      
+
+  - type: textarea
+    id: issues
+    attributes:
+      label: Q3. List Issues
+      description: Please list out issues you found within a list!
+      value: |
+        *
+        *
+        
   - type: textarea
     id: path
     attributes:
-      label: Q3. Issue File(s) Path
+      label: Q4. Issue File(s) Path
       description: Please list out all the issue files path if possible!
       placeholder: |
         mtr:font/mtr.json
@@ -54,7 +63,7 @@ body:
   - type: textarea
     id: fix
     attributes:
-      label: Q4. Fix The Issue File!
+      label: Q5. Fix The Issue File!
       description: If you know how to fix it? Then why not just tell us?!
       value: |
         **File1:** mtr:mtr_custom_resources.json
@@ -73,8 +82,8 @@ body:
   - type: checkboxes
     id: terms
     attributes:
-      label: Q5. Check Before Submit & Think Before Do It.
-      description: By submitting this issue, you must agree with these below
+      label: Q6. Before You Submit
+      description: By submitting this issue report, you must agree with these below
       options:
         - label: I swear I'm not using this report form for spamming
           required: true
@@ -82,13 +91,13 @@ body:
           required: true
         - label: Make sure to check everything before you submit
           required: true
-        - label: I would like to provide my contact information on Q6. to get reply if there's any activity on my report
+        - label: I would like to provide my contact information on Q7. to get reply if there's any activity on my report
           required: false
           
   - type: input
     id: contact
     attributes:
-      label: Q6. Contact
+      label: Q7. Contact
       description: If you chose the last option on the Q5., make sure you fill this question!
       placeholder: Your contact information here(make sure it's available)
     validations: 
