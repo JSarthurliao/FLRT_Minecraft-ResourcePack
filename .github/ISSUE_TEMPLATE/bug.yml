@@ -90,7 +90,7 @@ body:
     attributes:
       label: Q6. Contact
       description: If you chose the last option on the Q5., make sure you fill this question!
-      placeholder: Your contwct information here(make sure it's available)
+      placeholder: Your contact information here(make sure it's available)
     validations: 
       required: false
       
