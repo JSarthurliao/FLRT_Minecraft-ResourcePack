@@ -13,8 +13,8 @@ The resourcepack project at here was created by JS_arthurliao at March 6th, 2024
 * [@JS_arthurliao](https://github.com/JSarthurliao)
 
 > [!WARNING]
-> (c) By FLRT Server
-> You shall not shared any files or send these resourcepack files to public without authorized by [@HiltonLai](https://github.com/HiltonLai)
+> (c)Minecraft FLRT Server, all rights reserved.
+> You shall not shared any files or send these resourcepack files to public without authorized by [@Minecraft FLRT](https://github.com/MC-FLRT)
 
 ## Current branch
 ![branch](https://img.shields.io/badge/Branch-master-EFB032.svg)
