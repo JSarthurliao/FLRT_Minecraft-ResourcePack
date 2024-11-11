@@ -3,7 +3,7 @@ description: Report any unusual behavior of FLRT-Resource at here.
 title: "[Bug]<Name your bug title here> "
 labels: ["bug"]
 assignees:
-  - JS_arthurliao  
+  - JSarthurliao  
   - HiltonLai
 body:
   - type: markdown
