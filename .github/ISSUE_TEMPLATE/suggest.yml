@@ -22,11 +22,11 @@ body:
         - eyemod
         - framedblocks
         - jsblock
-            - minecraft
-            - mlm
-            - mtr
-            - sodium
-            - others(write it in the next question)
+        - minecraft
+        - mlm
+        - mtr
+        - sodium
+        - others(write it in the next question)
     validations:
       required: true
 
