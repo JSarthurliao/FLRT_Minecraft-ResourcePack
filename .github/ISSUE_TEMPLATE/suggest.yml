@@ -1,0 +1,11 @@
+name: Suggest from
+description: Suggest any newitwemsfor our resourepack and help us to make it better!
+title: "[Bug]<Name your bug title here> "
+labels: ["suggest"]
+assignees:
+  - JSarthurliao  
+body:
+  - type: markdown
+    attributes:
+      value: |
+      **
