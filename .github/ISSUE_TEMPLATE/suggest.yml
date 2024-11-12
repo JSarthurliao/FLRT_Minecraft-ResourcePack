@@ -11,4 +11,4 @@ body:
         **Fill theis formto tell us what you want to suggest for our resouce pack project.**
         Want to report bug error? Start from [here](https://github.com/JSarthurliao/FLRT_Minecraft-ResourcePack/issues/new?assignees=JSarthurliao%2CHiltonLai&labels=bug&projects=&template=bug.yml&title=%5BBug%5D%3CName+your+bug+title+here%3E+)
 
-  - type: 
+  - type: textarea
