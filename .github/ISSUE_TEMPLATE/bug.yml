@@ -44,8 +44,12 @@ body:
       label: Q3. List Issues
       description: Please list out issues you found within a list!
       value: |
-        * 
-        * 
+        * <your first issue list here>
+          Expected behavior:
+          Unusual bahavior:
+        * <your second issue list here>
+          Expected behavior:
+          Unusual bahavior:
     validations:
       required: true
         
