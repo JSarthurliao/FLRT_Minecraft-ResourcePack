@@ -1,6 +1,6 @@
 name: Suggest from
 description: Suggest any newitwemsfor our resourepack and help us to make it better!
-title: "[Bug]<Name your bug title here> "
+title: "[Suggest]<Name your suggest title here> "
 labels: ["suggest"]
 assignees:
   - JSarthurliao  
@@ -9,8 +9,31 @@ body:
     attributes:
       value: |
         **Fill theis formto tell us what you want to suggest for our resouce pack project.**
-        Want to report bug error? Start from [here](https://github.com/JSarthurliao/FLRT_Minecraft-ResourcePack/issues/new?assignees=JSarthurliao%2CHiltonLai&labels=bug&projects=&template=bug.yml&title=%5BBug%5D%3CName+your+bug+title+here%3E+)
+        Want to report bug or error? Start from [here](https://github.com/JSarthurliao/FLRT_Minecraft-ResourcePack/issues/new?assignees=JSarthurliao%2CHiltonLai&labels=bug&projects=&template=bug.yml&title=%5BBug%5D%3CName+your+bug+title+here%3E+)
 
-  - type: textarea
+  - type: dropdown
+    id: mod
     attributes:
-        label: Temporary
+      label: Q1. Category(Mod)
+      description: Select the mod that you want to modified with resource pack.
+      multipul: true
+      options:
+        - car
+        - eyemod
+        - framedblocks
+        - jsblock
+            - minecraft
+            - mlm
+            - mtr
+            - sodium
+            - others(write it in the next question)
+    validations:
+      required: true
+
+  - type: input
+    id: custom_mod
+    attributes:
+      label: Q2. Custom Category(Custom Mod)
+      description: Write down the mod name you want we to add it, if possible, you can check out the mod folder id in .java file.
+    validations:
+      required: false
