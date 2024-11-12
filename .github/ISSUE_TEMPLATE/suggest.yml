@@ -16,7 +16,7 @@ body:
     attributes:
       label: Q1. Category(Mod)
       description: Select the mod that you want to modified with resource pack.
-      multipul: true
+      multiple: true
       options:
         - car
         - eyemod
