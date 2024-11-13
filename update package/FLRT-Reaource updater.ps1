@@ -1,13 +1,20 @@
-$AskPath = {
-	$path = Read-Host "Please enter the path to FLRT-Resource vA1.8.zip:"
-		if (Test-Path -Path $path) {
-			"$path existed, moving to update!"
-			&$Update
-	} else {
-			"$path does not existed, please retry it agin!"
-			&$AskPath
-	}
-}
+$defaultpath = $Env:USERPROFILE\AppData\Local\Roaming\.minecraft
+$path = 0
+function path {
+    if(Test-Path -Path $defaultpath) {
+	    $ask = Read-Host "Detected default minecraft folder, do you want to install resource pack into it?(yes/no)
+	    if ($ask=yes) {
+            $path = $defaultpath
+        } else {
+		    function custompath {
+		    $path = Read-Host "Please enter the path to FLRT-vA1.8.zip"
+	        if (Test-Path -Path $path) {
+			    "$path existed, moving to update!"
+	        } else {
+			    "$path does not existed, please retry it agin!"
+	            custompath
+	        }
+		}
 
 $SetUp = {
 	if (Test-Path -Path $path\temp) {
