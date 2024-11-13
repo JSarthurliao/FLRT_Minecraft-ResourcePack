@@ -3,22 +3,22 @@ $path = 0
 
 function custompath {
     $path = Read-Host "Please enter the path to FLRT-vA1.8.zip"
-				}
+}
 
 function path {
     if(Test-Path -Path $defaultpath) {
-				$ask = Read-Host "Detected default minecraft folder, do you want to install resource pack into it?(yes/no)
+    $ask = Read-Host "Detected default minecraft folder, do you want to install resource pack into it?(yes/no)
     if ($ask=yes) {
         $path = $defaultpath
         } else {
-	          if (Test-Path -Path $path) {
-			      "$path existed, moving to update!"
-	      } else {
-			      "$path does not existed, please retry it agin!"
-	          custompath
-	      }
+		    if(Test-Path -Path $path) {
+	            "$path existed, moving to update!"
+	        } else {
+			    "$path does not existed, please retry it agin!"
+	            custompath
+	        }
+        }
 }
-
 $SetUp = {
 	if (Test-Path -Path $path\temp) {
 		&$Update
