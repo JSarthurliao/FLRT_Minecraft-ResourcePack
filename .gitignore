@@ -1,3 +1,6 @@
 #zipped file
 *.zip
 *.rar
+
+#update psckage files
+*.ps1
