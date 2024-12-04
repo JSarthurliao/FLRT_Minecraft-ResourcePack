@@ -1,4 +1,5 @@
 {
+    //door sounds
     "door.open.left": {
         "subtitles": "mlm.door.open.left",
         "sounds": [
@@ -37,9 +38,9 @@
     },
 
 
-
+    //taipai line stations
     "tal.barra.arriving": {
-        "subtitles": "mlm.taipa.barra.arriving",
+        "subtitles": "mlm.taipa.arriving.barra",
         "sounds": [
             {
                 "name": "mlm:tal/arriving/barra_arriving"
@@ -47,7 +48,7 @@
         ]
     },
     "tal.barra.arrived": {
-        "subtitles": "mlm.taipa.barra.arrived",
+        "subtitles": "mlm.taipa.arrived.barra",
         "sounds": [
             {
                 "name": "mlm:tal/arrived/barra_arrived"
@@ -55,7 +56,7 @@
         ]
     },
     "tal.ocean.arriving": {
-        "subtitles": "mlm.taipa.ocean.arriving",
+        "subtitles": "mlm.taipa.arriving.ocean",
         "sounds": [
             {
                 "name": "mlm:tal/arriving/ocean_arriving"
@@ -63,7 +64,7 @@
         ]
     },
     "tal.ocean.arrived": {
-        "subtitles": "mlm.taipa.ocean.arrived",
+        "subtitles": "mlm.taipa.arrived.ocean",
         "sounds": [
             {
                 "name": "mlm:tal/arrived/ocean_arrived"
@@ -71,7 +72,7 @@
         ]
     },
     "tal.jockey.club.arriving": {
-        "subtitles": "mlm.taipa.jockey.club.arriving",
+        "subtitles": "mlm.taipa.arriving.jockey.club",
         "sounds": [
             {
                 "name": "mlm:tal/arriving/jockey_club_arriving"
@@ -79,7 +80,7 @@
         ]
     },
     "tal.jockey.club.arrived": {
-        "subtitles": "mlm.taipa.jockey.club.arrived",
+        "subtitles": "mlm.taipa.arrived.jockey.club",
         "sounds": [
             {
                 "name": "mlm:tal/arrived/jockey_club_arrived"
@@ -87,7 +88,7 @@
         ]
     },
     "tal.stadium.arriving": {
-        "subtitles": "mlm.taipa.statium.arriving",
+        "subtitles": "mlm.taipa.arriving.statium",
         "sounds": [
             {
                 "name": "mlm:tal/arriving/stadium_arriving"
@@ -95,7 +96,7 @@
         ]
     },
     "tal.stadium.arrived": {
-        "subtitles": "mlm.taipa.statium.arrived",
+        "subtitles": "mlm.taipa.arrived.statium",
         "sounds": [
             {
                 "name": "mlm:tal/arrived/stadium_arrived"
@@ -103,7 +104,7 @@
         ]
     },
     "tal.pai.kok.arriving": {
-        "subtitles": "mlm.taipa.pai.kok.arriving",
+        "subtitles": "mlm.taipa.arriving.pai.kok",
         "sounds": [
             {
                 "name": "mlm:tal/arriving/pai_kok_arriving"
@@ -111,7 +112,7 @@
         ]
     },
     "tal.pai.kok.arrived": {
-        "subtitles": "mlm.taipa.api.kok.arrived",
+        "subtitles": "mlm.taipa.arrived.pai.kok",
         "sounds": [
             {
                 "name": "mlm:tal/arrived/pai_kok_arrived"
@@ -119,7 +120,7 @@
         ]
     },
     "tal.cotai.west.arriving": {
-        "subtitles": "mlm.taipa.cotai.west.arriving",
+        "subtitles": "mlm.taipa.arriving.cotai.west",
         "sounds": [
             {
                 "name": "mlm:tal/arriving/cotai_west_arriving"
@@ -127,7 +128,7 @@
         ]
     },
     "tal.cotai.west.arrived": {
-        "subtitles": "mlm.taipa.cotai.west.arrived",
+        "subtitles": "mlm.taipa.arrived.cotai.west",
         "sounds": [
             {
                 "name": "mlm:tal/arrived/cotai_west_arrived"
@@ -135,31 +136,31 @@
         ]
     },
     "tal.lotus.arriving": {
-        "subtitles": "mlm.taipa.lotus.arriving",
+        "subtitles": "mlm.taipa.arriving.lotus",
         "sounds": [
             {
                 "name": "mlm:tal/arrived/lotus_arriving"
             }
         ]
     },
-    "tal.lotus.arriving": {
-        "subtitles": "mlm.taipa.lotus.arrived",
+    "tal.lotus.arrived": {
+        "subtitles": "mlm.taipa.arrived.lotus",
         "sounds": [
             {
                 "name": "mlm:tal/arrived/lotus_arrived"
             }
         ]
     },
-    "tal.island.hospital.arriving": {
-        "subtitles": "mlm.taipa.island.hospital.arriving",
+    "tal.union.hospital.arriving": {
+        "subtitles": "mlm.taipa.arriving.union.hospital",
         "sounds": [
             {
                 "name": "mlm:tal_spl/arriving/island_hospital_arriving"
             }
         ]
     },
-    "tal.island.hospital.arrived": {
-        "subtitles": "mlm.taipa.seac.pai.van.island.hospital.arrived",
+    "tal.union.hospital.arrived": {
+        "subtitles": "mlm.taipa.arrived.union.hospital",
         "sounds": [
             {
                 "name": "mlm:tal_spl/arrived/island_hospital_arrived"
@@ -167,7 +168,7 @@
         ]
     },
     "tal.east.asian.games.arriving": {
-        "subtitles": "mlm.taipa.seac.pai.van.east.asian.games.arriving",
+        "subtitles": "mlm.taipa.arriving.east.asian.games",
         "sounds": [
             {
                 "name": "mlm:tal/arriving/east_asian_games_arriving"
@@ -175,7 +176,7 @@
         ]
     },
     "tal.east.asian.games.arrived": {
-        "subtitles": "mlm.taipa.east.asian.games.arrived",
+        "subtitles": "mlm.taipa.arrived.east.asian.games",
         "sounds": [
             {
                 "name": "mlm:tal/arrived/east_asian_games_arrived"
@@ -183,7 +184,7 @@
         ]
     },
     "tal.cotai.east.arriving": {
-        "subtitles": "mlm.taipa.cotai.east.arriving",
+        "subtitles": "mlm.taipa.arriving.cotai.east",
         "sounds": [
             {
                 "name": "mlm:tal/arriving/cotai_east_arriving"
@@ -191,7 +192,7 @@
         ]
     },
     "tal.cotai.east.arrived": {
-        "subtitles": "mlm.taipa.cotai.east.arrived",
+        "subtitles": "mlm.taipa.arrived.cotai.east",
         "sounds": [
             {
                 "name": "mlm:tal/arrived/cotai_east_arrived"
@@ -199,7 +200,7 @@
         ]
     },
     "tal.must.arriving": {
-        "subtitles": "mlm.taipa.must.arriving",
+        "subtitles": "mlm.taipa.arriving.must",
         "sounds": [
             {
                 "name": "mlm:tal/arriving/must_arriving"
@@ -207,7 +208,7 @@
         ]
     },
     "tal.must.arrived": {
-        "subtitles": "mlm.taipa.must.arrived",
+        "subtitles": "mlm.taipa.arrived.must",
         "sounds": [
             {
                 "name": "mlm:tal/arrived/must_arrived"
@@ -215,7 +216,7 @@
         ]
     },
     "tal.airport.arriving": {
-        "subtitles": "mlm.taipa.airport.arriving",
+        "subtitles": "mlm.taipa.arriving.airport",
         "sounds": [
             {
                 "name": "mlm:tal/arriving/airport_arriving"
@@ -223,7 +224,7 @@
         ]
     },
     "tal.airport.artived": {
-        "subtitles": "mlm.taipa.airport.arrived",
+        "subtitles": "mlm.taipa.arrived.airport",
         "sounds": [
             {
                 "name": "mlm:tal/arrived/airport_arrived"
@@ -231,7 +232,7 @@
         ]
     },
     "tal.tal.ferry.terminal.arriving": {
-        "subtitles": "mlm.taipa.taipa.ferry.terminal.arriving",
+        "subtitles": "mlm.taipa.arriving.taipa.ferry.terminal",
         "sounds": [
             {
                 "name": "mlm:tal/arriving/taipa_ferry_terminal_arriving"
@@ -239,7 +240,7 @@
         ]
     },
     "tal.taipa.ferry.terminal.arrived": {
-        "subtitles": "mlm.taipa.taipa.ferry.terminal.arrived",
+        "subtitles": "mlm.taipa.arrived.taipa.ferry.terminal",
         "sounds": [
             {
                 "name": "mlm:tal/arriving/taipa_ferry_terminal_arrived"
@@ -247,20 +248,20 @@
         ]
     },
 
-
-    "tal.announcement.arriving.to.barra": {
-        "subtitles": "mlm.taipa.announcement.arriving.barra",
+    //taipa line announcements
+    "tal.announcement.to.barra": {
+        "subtitles": "mlm.taipa.announcement.to.barra",
         "sounds": [
             {
-                "name": "mlm:tal/annuncement_arriving/to_barra_arriving"
+                "name": "mlm:tal/announcement/to/barra_to"
             }
         ]
     },
-    "tal.announcement.arriving.to.taipa.ferry.terminal": {
-        "subtitles": "mlm.taipa.announcement.arriving.taipa.ferry.terminal",
+    "tal.announcement.to.taipa.ferry.terminal": {
+        "subtitles": "mlm.taipa.announcement.to.taipa.ferry.terminal",
         "sounds": [
             {
-                "name": "mlm:tal/announcement_arriving/to_taipa_ferry_terminal_arriving"
+                "name": "mlm:tal/announcement/to/taipa_ferry_terminal_to"
             }
         ]
     },
@@ -268,7 +269,7 @@
         "subtitles": "mlm.taipa.announcemenet.terminal.barra",
         "sounds": [
             {
-                "name": "mlm:tal/announcment_terminal/barra_terminal"
+                "name": "mlm:tal/terminal/barra_terminal"
             }
         ]
     },
@@ -276,32 +277,101 @@
         "subtitles": "mlm.taipa.announcement.terminal.taipa.ferry.terminal",
         "sounds": [
             {
-                "name": "mlm:tal/announcement_terminal/taipa_ferry_terminal_terminal"
+                "name": "mlm:tal/terminal/taipa_ferry_terminal_terminal"
             }
         ]
     },
 
 
-
-    "spl.island.hospital.arriving": {
-        "subtitles": "mlm.seac.pai.van.taipa.island.hospital.arriving",
+    //seac pai van line stations
+    "spl.union.hospital.arriving": {
+        "subtitles": "mlm.seac.pai.van.arriving.union.hospital",
         "sounds": [
             {
-                "name": "mlm:tal_spl/arriving/island_hospital_arriving"
+                "name": "mlm:tal_spl/arriving/union_hospital_arriving"
             }
         ]
     },
-    "spl.island.hospital.arrived": {
-        "subtitles": "mlm.seac.pai.van.taipa.island.hospital.arrived",
+    "spl.union.hospital.arrived": {
+        "subtitles": "mlm.seac.pai.van.arrived.union.hospital",
         "sounds": [
             {
-                "name": "mlm:tal_spl/arrived/island_hospital_arrived"
+                "name": "mlm:tal_spl/arrived/union_hospital_arrived"
+            }
+        ]
+    },
+    "spl.seac.pai.van.arriving": {
+        "subtitles": "mlm.seac.pai.van.arriving.seac.pai.van",
+        "sounds": [
+            {
+                "name": "mlm:spl/arriving/union_hospital_arriving"
+            }
+        ]
+    },
+    "spl.seac.pai.van.arrived": {
+        "subtitles": "mlm.seac.pai.van.arrived.seac.pai.van",
+        "sounds": [
+            {
+                "name": "mlm:spl/arrived/union_hospital_arrived"
+            }
+        ]
+    },
+
+    //seac pai van line announcements
+    "spl.announcement.to.seac.pai.van": {
+        "subtitles": "mlm.seac.pai.van.announcement.to.seac.pai.van",
+        "sounds": [
+            {
+                "name": "mlm:spl/announcement/to/seac_pai_van_to"
+            }
+        ]
+    },
+    "spl.announcement.to.union.hospital": {
+        "subtitles": "mlm.seac.pai.van.announcement.to.union.hospital",
+        "sounds": [
+            {
+                "name": "mlm:spl/announcement/to/union_hospital_to"
+            }
+        ]
+    },
+    "spl.announcement.terminal.seac.pai.van": {
+        "subtitles": "mlm.seac.pai.van.announcement.terminal.seac.pai.van",
+        "sounds": [
+            {
+                "name": "mlm:spl/announcement/terminal/seac_pai_van_terminal"
+            }
+        ]
+    },
+    "spl.announcement.terminal.union.hospital": {
+        "subtitles": "mlm.seac.pai.van.terminal.union.hospital",
+        "sounds": [
+            {
+                "name": "mlm:spl/announcememt/terminal/union_hospital_terminal"
             }
         ]
     },
 
 
+    //transfer
+    "tal.transfer": {
+        "subtitles": "mlm.transfer.taipa.line",
+        "sounds": [
+            {
+                "name": "mlm:tal_spl/announcement/transfer/tal_transfer"
+            }
+        ]
+    },
+    "spl.transfer": {
+        "subtitles": "mlm.transfer.seac.pai.van.line",
+        "sounds": [
+            {
+                "name": "mlm:tal_spl/announcement/transfer/spl_transfer"
+            }
+        ]
+    },
 
+
+    //terminus announcement
     "announcement.terminus": {
         "subtitles": "mlm.announcement.terminus",
         "sounds": [
