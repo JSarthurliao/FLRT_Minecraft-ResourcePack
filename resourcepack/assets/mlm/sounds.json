@@ -151,19 +151,19 @@
             }
         ]
     },
-    "tal.union.hospital.arriving": {
+    /*"tal.union.hospital.arriving": {
         "subtitles": "mlm.taipa.arriving.union.hospital",
         "sounds": [
             {
-                "name": "mlm:tal_spl/arriving/island_hospital_arriving"
+                "name": "mlm:tal_spl/arriving/union_hospital_arriving"
             }
         ]
-    },
+    },*/
     "tal.union.hospital.arrived": {
         "subtitles": "mlm.taipa.arrived.union.hospital",
         "sounds": [
             {
-                "name": "mlm:tal_spl/arrived/island_hospital_arrived"
+                "name": "mlm:tal_spl/arrived/union_hospital_arrived"
             }
         ]
     },
@@ -300,14 +300,14 @@
             }
         ]
     },
-    "spl.seac.pai.van.arriving": {
+    /*"spl.seac.pai.van.arriving": {
         "subtitles": "mlm.seac.pai.van.arriving.seac.pai.van",
         "sounds": [
             {
                 "name": "mlm:spl/arriving/union_hospital_arriving"
             }
         ]
-    },
+    },*/
     "spl.seac.pai.van.arrived": {
         "subtitles": "mlm.seac.pai.van.arrived.seac.pai.van",
         "sounds": [
@@ -318,7 +318,7 @@
     },
 
     //seac pai van line announcements
-    "spl.announcement.to.seac.pai.van": {
+    /*"spl.announcement.to.seac.pai.van": {
         "subtitles": "mlm.seac.pai.van.announcement.to.seac.pai.van",
         "sounds": [
             {
@@ -333,7 +333,7 @@
                 "name": "mlm:spl/announcement/to/union_hospital_to"
             }
         ]
-    },
+    },*/
     "spl.announcement.terminal.seac.pai.van": {
         "subtitles": "mlm.seac.pai.van.announcement.terminal.seac.pai.van",
         "sounds": [
@@ -357,7 +357,7 @@
         "subtitles": "mlm.transfer.taipa.line",
         "sounds": [
             {
-                "name": "mlm:tal_spl/announcement/transfer/tal_transfer"
+                "name": "mlm:tal/announcement/transfer/tal_transfer"
             }
         ]
     },
@@ -365,7 +365,7 @@
         "subtitles": "mlm.transfer.seac.pai.van.line",
         "sounds": [
             {
-                "name": "mlm:tal_spl/announcement/transfer/spl_transfer"
+                "name": "mlm:spl/announcement/transfer/spl_transfer"
             }
         ]
     },
