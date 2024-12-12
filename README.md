@@ -1,4 +1,4 @@
-# <img src="temporary/emojis/FLRT.png" width="25" height="25"/>FLRT-ResourcePack
+# <img src="temporary/emojis/FLRT.png" width="50" height="50"/>FLRT-ResourcePack
 [![Minecraft](temporary/emojis/Minecraft.png)](https://www.minecraft.net) [![Discord](temporary/emojis/Discord.png)](https://discord.com/invite/vZGpr4WTBy)
 
 ## About
