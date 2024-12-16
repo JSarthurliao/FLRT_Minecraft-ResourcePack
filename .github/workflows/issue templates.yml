@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update ISSUE_TEMPLATE:
+  update "bug.yml":
     runs-on: ubuntu-latest
 
     steps:
