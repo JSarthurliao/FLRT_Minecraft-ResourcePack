@@ -1,1 +1,33 @@
+name: Get Last Two Branches
+
+on:
+  push:
+    branches:
+      - '**'
+  workflow_dispatch:
+
+jobs:
+  get-last-two-branches:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Get last two branches
+        id: get-branches
+        run: |
+          # List all branches sorted by commit date, then take the last two
+          branches=$(git for-each-ref --sort=-committerdate refs/heads/ --format='%(refname:short)' | head -n 2)
+          branch_array=($branches)
+          echo "Branch 1: ${branch_array[0]}"
+          echo "Branch 2: ${branch_array[1]}"
+
+          # Set the outputs for use in other steps or jobs
+          echo "::set-output name=branch1::${branch_array[0]}"
+          echo "::set-output name=branch2::${branch_array[1]}"
+
+      - name: Display branches
+        run: |
+          echo "The last two branches are: ${{ steps.get-branches.outputs.branch1 }} and ${{ steps.get-branches.outputs.branch2 }}"
 
