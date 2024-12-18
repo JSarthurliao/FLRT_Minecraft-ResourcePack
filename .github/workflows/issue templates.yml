@@ -24,17 +24,17 @@ jobs:
           echo "Branch 2: ${branch_array[1]}"
 
           # Set the outputs for use in other steps or jobs
-          echo "::set-output name=branch1::${branch_array[0]}"
-          echo "::set-output name=branch2::${branch_array[1]}"
+          echo "branch1=${branch_array[0]}" >> $GITHUB_ENV
+          echo "branch2=${branch_array[1]}" >> $GITHUB_ENV
 
       - name: Update placeholder in bug.yml
         run: |
-          placeholder_to_replace=$branch1
-          new_placeholder=$branch2
+          placeholder_to_replace=${{ env.branch1 }}
+          new_placeholder=${{ env.branch2 }}
 
-          # check if ".github/ISSUE_TEMPLATE/bug.yml" body[1] placeholder exist
+          # Check if ".github/ISSUE_TEMPLATE/bug.yml" body[1] placeholder exists
           if grep -q "$placeholder_to_replace" .github/ISSUE_TEMPLATE/bug.yml; then
-            # change placeholder
+            # Change placeholder
             sed -i "s/$placeholder_to_replace/$new_placeholder/g" .github/ISSUE_TEMPLATE/bug.yml
             echo "Placeholder updated successfully."
           else
@@ -45,6 +45,7 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git commit -am "Update file "bug.yml" placeholder"
+          git commit -am "Update file 'bug.yml' placeholder"
           git push
+
 
