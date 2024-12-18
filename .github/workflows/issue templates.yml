@@ -29,16 +29,16 @@ jobs:
 
       - name: Update placeholder in bug.yml
         run: |
-          placeholder_to_replace="$branch1"
-          new_placeholder="$branch2"
+          placeholder_to_replace=$branch1
+          new_placeholder=$branch2
 
-          # 檢查 .github/ISSUE_TEMPLATE/bug.yml 是否包含特定的 placeholder
+          # check if ".github/ISSUE_TEMPLATE/bug.yml" body[1] placeholder exist
           if grep -q "$placeholder_to_replace" .github/ISSUE_TEMPLATE/bug.yml; then
-            # 使用 sed 命令替換 placeholder
+            # change placeholder
             sed -i "s/$placeholder_to_replace/$new_placeholder/g" .github/ISSUE_TEMPLATE/bug.yml
             echo "Placeholder updated successfully."
           else
-            echo "Placeholder not found."
+            echo "Placeholder failed to update."
           fi
 
       - name: Commit changes
