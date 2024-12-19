@@ -49,7 +49,7 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git remote set-url origin https://${{ secrets.GH_PAT }}@github.com/JSarthurliao/FLRT_Minecraft-ResourcePack.git
+          git remote set-url origin git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/JSarthurliao/FLRT_Minecraft-ResourcePack.git
           git add .github/ISSUE_TEMPLATE/bug.yml
           git commit -m "Update file 'bug.yml' placeholder"
           git push origin HEAD:$(git symbolic-ref --short HEAD)
