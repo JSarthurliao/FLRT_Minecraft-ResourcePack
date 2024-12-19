@@ -54,5 +54,3 @@ jobs:
           git commit -m "Update file 'bug.yml' placeholder"
           git push origin HEAD:$(git symbolic-ref --short HEAD)
           echo "Commit changes successfully."
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
