@@ -20,12 +20,9 @@ jobs:
           # List all branches sorted by commit date, then take the last three excepted the "master" branch
           branches=$(git for-each-ref --sort=-committerdate refs/heads/ --format='%(refname:short)' | head -n 2)
           branch_array=($branches)
-          echo "Branch default: ${branch_array[0]}"
-          echo "Branch 1: ${branch_array[1]}"
-
           # Set the outputs for use in other steps or jobs
           echo "branch_default=${branch_array[0]}"
-          printf "branch1=%s\n" "${branch_array[1]}" >> $GITHUB_ENV
+          echo "branch1=%s\n" "${branch_array[1]}" >> $GITHUB_ENV
 
       - name: Get current placeholder name
         id: extract-placeholder
@@ -41,6 +38,7 @@ jobs:
             if [ "$new_placeholder" != "$placeholder_to_replace" ]; then
               #Change placeholder
               sed -i "s/$placeholder_to_replace/$new_placeholder/g" .github/ISSUE_TEMPLATE/bug.yml
+              echo "Placeholder has been updated from ${{ env.placeholder}} to ${{ env.branch1 }} successfully"
             else
               echo "Placeholder failed to update. The last branch name is same as the current one!"
             fi
@@ -51,5 +49,6 @@ jobs:
           git config --local user.name "GitHub Actions"
           git commit -am "Update file 'bug.yml' placeholder"
           git push
-          echo "Placeholder updated successfully."
-
+          echo "Commit changes successfully."
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
