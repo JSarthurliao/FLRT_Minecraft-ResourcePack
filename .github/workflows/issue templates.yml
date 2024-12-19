@@ -28,6 +28,7 @@ jobs:
           echo "branch1=${branch_array[0]}" >> $GITHUB_ENV
           echo "branch2=${branch_array[1]}" >> $GITHUB_ENV
           echo "branch3=${branch_array[2]}"
+>> $GITHUB_ENV
 
       - name: Get current placeholder name
         id: extract-placeholder
