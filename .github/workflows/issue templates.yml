@@ -30,7 +30,7 @@ jobs:
       - name: Get current placeholder name
         id: extract-placeholder
         run: |
-          placeholder=$(grep -oP 'placeholder pattern' .github/ISSUE_TEMPLATE/bug.yml)
+          placeholder=$(grep -oP '*.*.*' .github/ISSUE_TEMPLATE/bug.yml)
           echo "placeholder=$placeholder" >> $GITHUB_ENV
 
       - name: Update placeholder in bug.yml
