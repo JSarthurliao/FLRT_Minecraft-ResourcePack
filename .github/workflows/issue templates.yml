@@ -18,7 +18,7 @@ jobs:
         id: get-branches
         run: |
           # List all branches sorted by commit date, then take the last two
-          branches=$(git for-each-ref --sort=-committerdate refs/heads/ --format='%(refname:short)' | head -n 2)
+          branches=$(git for-each-ref --sort=-committerdate refs/heads/ --format='%(refname:short)' | head -n 3)
           branch_array=($branches)
           echo "Branch 1: ${branch_array[0]}"
           echo "Branch 2: ${branch_array[1]}"
@@ -27,8 +27,7 @@ jobs:
           # Set the outputs for use in other steps or jobs
           echo "branch1=${branch_array[0]}" >> $GITHUB_ENV
           echo "branch2=${branch_array[1]}" >> $GITHUB_ENV
-          echo "branch3=${branch_array[2]}"
->> $GITHUB_ENV
+          echo "branch3=${branch_array[2]}" >> $GITHUB_ENV
 
       - name: Get current placeholder name
         id: extract-placeholder
