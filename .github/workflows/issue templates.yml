@@ -24,7 +24,7 @@ jobs:
           echo "Branch 1: ${branch_array[1]}"
 
           # Set the outputs for use in other steps or jobs
-          echo "branch_default=${branch_array[0]}
+          echo "branch_default=${branch_array[0]}"
           printf "branch1=%s\n" "${branch_array[1]}" >> $GITHUB_ENV
 
       - name: Get current placeholder name
