@@ -20,7 +20,7 @@ jobs:
         id: get-branches
         run: |
           # List all branches excluding 'master' and match specific patterns
-          branches=$(git for-each-ref --sort=-committerdate refs/heads/ --format='%(refname:short)' | grep -v 'master' | grep -P '\b[a|b]?\d+\.\d+(\.\d+)?(\.\d{3})?\b')
+          branches=$(git for-each-ref --sort=-committerdate refs/heads/ --format='%(refname:short)' | grep -v 'master')
           # Sort the branches based on version and take the highest one
           highest_branch=$(echo "$branches" | sort -V | tail -n 1)
           # Output it to the github environment
