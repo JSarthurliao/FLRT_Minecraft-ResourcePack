@@ -20,7 +20,7 @@ jobs:
         id: get-branches
         run: |
           # List all branches sorted by commit date, then take the last three excepted the "master" branch
-          branches=$(git for-each-ref --sort=-committerdate refs/heads/ --format='%(refname:short)' | grep -P '\b[a|b]?\d+\.\d+(\.\d)?+(\.\d{3})?\b' | head -n 2)
+          branches=$(git branch -r)
           branch_array=($branches)
           # Set the outputs for use in other steps or jobs
           echo "branch_default=${branch_array[0]}"
