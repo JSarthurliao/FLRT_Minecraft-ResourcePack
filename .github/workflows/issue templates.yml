@@ -19,20 +19,26 @@ jobs:
       - name: Get last two branches name
         id: get-branches
         run: |
-          # List all branches sorted by commit date, then take the last three excepted the "master" branch
-          branches=$(git for-each-ref --sort=-committerdate refs/heads/ --format='%(refname:short)' | grep -v 'master' | grep -P '\b[a|b]?\d+\.\d+(\.\d+)?(\.\d{3})?\b' | head -n 2)
-          branch_array=($branches)
-          echo "branch_default=${branch_array[0]}"
-          echo "branch_last=" "${branch_array[1]}" >> $GITHUB_ENV
+      - name: Get the highest version branch
+        id: get-highest-branch
+        run: |
+          # List all branches excluding 'master' and match specific patterns
+          branches=$(git for-each-ref --sort=-committerdate refs/heads/ --format='%(refname:short)' | grep -v 'master' | grep -P '\b[a|b]?\d+\.\d+(\.\d+)?(\.\d{3})?\b')
+          # Sort the branches based on version and take the highest one
+          highest_branch=$(echo "$branches" | sort -V | tail -n 1)
+          # Output it to the github environment
+          echo "branch_last=$highest_branch" >> $GITHUB_ENV
 
       - name: Get current placeholder name
         id: extract-placeholder
         run: |
+          # Get placeholder by specific format
           placeholder=$(grep -oP '\b[a|b]?\d+\.\d+(\.\d+)?(\.\d{3})?\b' .github/ISSUE_TEMPLATE/bug.yml)
           echo "placeholder=$placeholder" >> $GITHUB_ENV
 
       - name: Update placeholder in bug.yml
         run: |
+          # Announce settings
           placeholder_to_replace=${{ env.placeholder }}
           new_placeholder=${{ env.branch_last }}
             # Check if placeholder to replace is same as the last branch name
