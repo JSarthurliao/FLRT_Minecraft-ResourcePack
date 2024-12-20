@@ -19,9 +19,6 @@ jobs:
       - name: Get last two branches name
         id: get-branches
         run: |
-      - name: Get the highest version branch
-        id: get-highest-branch
-        run: |
           # List all branches excluding 'master' and match specific patterns
           branches=$(git for-each-ref --sort=-committerdate refs/heads/ --format='%(refname:short)' | grep -v 'master' | grep -P '\b[a|b]?\d+\.\d+(\.\d+)?(\.\d{3})?\b')
           # Sort the branches based on version and take the highest one
