@@ -20,11 +20,11 @@ jobs:
         id: get-branches
         run: |
           # List all branches sorted by commit date, then take the last three excepted the "master" branch
-          branches=$(git branch -r)
+          branches=$(git branch -r | sed 's/origin\///')
           branch_array=($branches)
           # Set the outputs for use in other steps or jobs
           echo "branch_default=${branch_array[0]}"
-          printf "branch_last=%s\n" "${branch_array[1]}" >> $GITHUB_ENV
+          echo "branch_last" "${branch_array[1]}" >> $GITHUB_ENV
 
       - name: Get current placeholder name
         id: extract-placeholder
