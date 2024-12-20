@@ -21,7 +21,7 @@ jobs:
         run: |
           branches=$(git branch -r | sed 's/origin\///')
           # Get last version branch by specific format
-          /* branches=$(git for-each-ref --sort=-committerdate refs/heads/ --format='%(refname:short)' | grep -P '\b[a|b]?\d+\.\d+(\.\d+)?(\.\d{3})?\b' | head -n 1) */
+          # branches=$(git for-each-ref --sort=-committerdate refs/heads/ --format='%(refname:short)' | grep -P '\b[a|b]?\d+\.\d+(\.\d+)?(\.\d{3})?\b' | head -n 1)
           # Set the outputs for use in other steps or jobs
           echo "branch_last=" "${branches[1]}" >> $GITHUB_ENV
 
