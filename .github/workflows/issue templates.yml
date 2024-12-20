@@ -16,14 +16,20 @@ jobs:
         with:
           token: ${{ secrets.GH_PAT }}
 
-      - name: Get last two branches name
-        id: get-branches
+      - name: Get the highest version branch
+        id: get-highest-branch
         run: |
           # List all branches excluding 'master' and match specific patterns
-          branches=$(git for-each-ref --sort=-committerdate refs/heads/ --format='%(refname:short)' | grep -v 'master')
-          # Sort the branches based on version and take the highest one
-          highest_branch=$(echo "$branches" | sort -V | tail -n 1)
-          # Output it to the github environment
+          branches=$(git for-each-ref --sort=-committerdate refs/heads/ --format='%(refname:short)' | grep -v 'master' | grep -P '^(a|b)?\d+\.\d+(\.\d+)?(\.\d{3})?$')
+          
+          # Sort the branches based on version numbers
+          IFS=$'\n' sorted_branches=($(echo "$branches" | sort -V))
+          
+          # Get the highest version branch
+          highest_branch=${sorted_branches[-1]}
+          
+          # Output the highest branch
+          echo "Branch last: $highest_branch"
           echo "branch_last=$highest_branch" >> $GITHUB_ENV
 
       - name: Get current placeholder name
