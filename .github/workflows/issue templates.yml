@@ -1,4 +1,4 @@
-name: Get Last Two Branches
+name: Update version placeholder
 
 on:
   push:
