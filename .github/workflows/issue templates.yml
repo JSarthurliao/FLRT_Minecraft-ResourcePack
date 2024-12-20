@@ -19,12 +19,10 @@ jobs:
       - name: Get last two branches name
         id: get-branches
         run: |
-          # List all branches sorted by commit date, then take the last two excluding "master"
-          branches=$(git for-each-ref --sort=-committerdate refs/heads/ --format='%(refname:short)' | head -n 2)
-          branch_array=($branches)
+          # Get last version branch by specific format
+          brabches=$(git for-each-ref --sort=-committerdate refs/heads/ --format='%(refname:short)' | grep -P '\b[a|b]?\d+\.\d+(\.\d+)?(\.\d{3})?\b' | head -n 1)
           # Set the outputs for use in other steps or jobs
-          echo "branch_default=${branch_array[0]}"
-          echo "branch_last=" "${branch_array[1]}" >> $GITHUB_ENV
+          echo "branch_last=" "${branches}" >> $GITHUB_ENV
 
       - name: Get current placeholder name
         id: extract-placeholder
