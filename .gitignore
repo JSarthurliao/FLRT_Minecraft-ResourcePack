@@ -4,3 +4,6 @@
 
 #update psckage files
 *.ps1
+
+#console files
+*.nix
