@@ -16,7 +16,7 @@ body:
     attributes:
       label: Q1. Resource Pack Version
       description: Please look at the file zip name and tell us the current resource psck version now you are using on!
-      placeholder: 
+      placeholder: v1.8.4
     validations:
       required: true
       
