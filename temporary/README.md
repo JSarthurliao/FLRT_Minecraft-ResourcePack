@@ -11,13 +11,13 @@
     </tr>
     <tr>
         <td rowspan="2">car</td>
-        <td><ul><li>[ ] <li><ul></td>
+        <td><ul><li>[ ] </ul></ul></td>
         <td></td>
         <td></td>
         <td></td>
     <tr>
     </tr>
-        <td><ul><li>[ ] <li><ul></td>
+        <td><ul><li>[ ] </ul></ul></td>
         <td></td>
         <td></td>
         <td></td>
