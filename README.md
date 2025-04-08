@@ -1,6 +1,8 @@
 # <img src="temporary/emojis/FLRT.png" width="50" height="50"/>FLRT-ResourcePack
-[![Minecraft](temporary/emojis/Minecraft.png)](https://www.minecraft.net) [![Discord](temporary/emojis/Discord.png)](https://discord.com/invite/vZGpr4WTBy)
-![Static Badge](https://img.shields.io/badge/Discord_vZGpr4WTBy-Discord_logo?style=for-the-badge&logo=discord&logoColor=%23738ADB&labelColor=%23555555&color=%23dcdcdc&link=https%3A%2F%2Fiscord.gg%2FvZGpr4WTBy)
+
+##### Related Links
+[![Minecraft Static Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.minecraft.net%2F-minecraft_official_site?style=flat-square&logo=minecraft&logoColor=%233e5c20&labelColor=%23e6caace3&color=%2363646ebf)](https://www.minecraft.net/)  
+[![Discord Static Badge](https://img.shields.io/badge/vZGpr4WTBy-flrt_discord_invite?style=flat-square&logo=discord&logoColor=%235865F2&labelColor=%23e6caace3&color=%2363646ebf)](https://discord.com/invite/vZGpr4WTBy)
 
 ## About
 FLRT-ResourcePack is a resource pack for FLRT Minecraft server using.
