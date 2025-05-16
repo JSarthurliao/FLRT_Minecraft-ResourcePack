@@ -23,7 +23,7 @@ jobs:
           # Get last version branch by specific format
           # branches=$(git for-each-ref --sort=-committerdate refs/heads/ --format='%(refname:short)' | grep -P '\b[a|b]?\d+\.\d+(\.\d+)?(\.\d{3})?\b' | head -n 1)
           # Set the outputs for use in other steps or jobs
-          echo "branch_last=" "${branches[1]}" >> $GITHUB_ENV
+          echo branch_last="${branches[-1]}" >> $GITHUB_ENV
 
       - name: Get current placeholder name
         id: extract-placeholder
@@ -39,7 +39,7 @@ jobs:
           new_placeholder=${{ env.branch_last }}
             # Check if placeholder to replace is same as the last branch name
             if [ "$new_placeholder" != "$placeholder_to_replace" ]; then
-              #Change placeholder
+              # Change placeholder
               sed -i "s/$placeholder_to_replace/$new_placeholder/g" .github/ISSUE_TEMPLATE/bug.yml
               echo "Placeholder has been updated from ${{ env.placeholder}} to ${{ env.branch_last }} successfully"
             else
